@@ -1,5 +1,9 @@
 # main links links
 main:
+  
+  - title: "Open Positions"
+    url: /positions/ 
+    
   - title: "News"
     url: /news/  
     
@@ -18,8 +22,7 @@ main:
   - title: "Current Activities & Services"
     url: /service/ 
     
-  - title: "Open Positions"
-    url: /positions/ 
+  
     
 #  - title: "CV"
 #    url: /cv/
