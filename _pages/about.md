@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am (Full) Professor at the Department of Computing, Macquarie University, Sydney, Australia. I am Chief Exacutive and Chief Scientist of the Optus Macquarie University Cyber Security Hub. I am also Group Leader of the Information Security and Privacy Research Group at CSIRO Data61, Australia since December 2015.
+I am (Full) Professor at the Department of Computing, Macquarie University, Sydney, Australia. 
+I am the Exacutive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy Research Program. 
 
-I am spearheading Data61’s R&D activities in privacy-preserving technologies with a focus on private date sharing, Information security and Web and mobile security. Before that, at INRIA, he co-invented the technology behind geolocalisation of malicious botnet motherhood servers and pioneered research in the security of internet coordinate systems. I have published over 200 peer-reviewed papers repeatedly in top journals and conferences, receiving many prestigious awards.
+I am interested in the wide R&D activities in privacy-preserving technologies with a focus on private date sharing, Information security and Web and mobile security. Prior to joining Macquarie Universirty, I was group leader and founder of the Information Security and Privacy group at CSIRO Data61, a principal researcher at National ICT Australia (NICTA) and a permament researcher at the Privatics team at INRIA in France.
 
 Our main research goals are:
 ======
