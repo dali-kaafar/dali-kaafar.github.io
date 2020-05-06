@@ -13,6 +13,9 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2020** 
 
+– M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi. ​Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading
+In ACM Transaction on Privacy and Security (TOPS), March 2020. [pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2020/04/ik_wot_tops_2020-1.pdf)</span> <span style="background-color:#98FB98"> 
+
 – B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2001.04056.pdf)</span> <span style="background-color:#98FB98"> 
 
 – H. Asghar, M.A. Kaafar, “Averaging Attacks on Bounded Noise-based Disclosure Control Algorithms”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1902.06414.pdf)</span> <span style="background-color:#98FB98"> 
