@@ -8,25 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am (Full) Professor at the Department of Computing, Macquarie University, Sydney, Australia. 
-I am the Exacutive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy Research Program. 
+I am (Full) Professor at the Faculty of Science and Engineernig,Computing Department at Macquarie University, Sydney, Australia. 
+I am also the Exacutive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy Research Program. 
 
-I am interested in the wide R&D activities in privacy-preserving technologies with a focus on private date sharing, Information security and Web and mobile security. Prior to joining Macquarie Universirty, I was group leader and founder of the Information Security and Privacy group at CSIRO Data61, a principal researcher at National ICT Australia (NICTA) and a permament researcher at the Privatics team at INRIA in France.
-
-Our main research goals are:
-======
-Build data and information sharing platforms enabling privacy-preserving data sharing and trustworthy cyber defence collaboration.
-Design and construct resilient and reliable software systems to enable defence mechanisms in distributed and potentially hostile environments.
-
-Design and build usable and human-centric security technologies to change humans from the weakest link of the chain into a first line of active defence.
-
-Quantify and understand threats and cyber risks including socio-economics and financial risks.
-
-Design policies, governance and decision-making platforms to investigate regulation-compliance and facilitate cyber security mechanisms embedding within organisations.
+With a team of collaborators I am interested in the broad R&D activities in Cyber Security in Emerging Technologies with a vision to enable Explicit Trust in the Digital Economy. My primary research interests are Data Security and Privacy, with a focus on Privacy-Preserving (or Enhancing) technologies and Information Security for Web and Mobile applications, (Provably) private date sharing and Trustworthy Secure and Private Machine learning techniques. Prior to joining Macquarie University, I was founder and group leader of the Information Security and Privacy group at CSIRO Data61, a principal researcher at National ICT Australia (NICTA) and a permament researcher at the Privatics team at INRIA in France.
 
 
 Current Activities:
 ======
+
+General Chair for Privacy Enhancing Technologies Symposium (PETS) 2021 that will be held in Sydney in July 2021.
+
+General Co-Chair of CDNG 2020
+
 Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ACM ToMPECS)
 
 Editorial Board member of Journal of Privacy Enhancing Technologies (PoPET).
