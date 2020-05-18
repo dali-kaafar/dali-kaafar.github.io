@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 I am (Full) Professor at the Faculty of Science and Engineernig,Computing Department at Macquarie University, Sydney, Australia. 
-I am also the Exacutive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy Research Program. 
 
-With a team of collaborators I am interested in the broad R&D activities in Cyber Security in Emerging Technologies with a vision to enable Explicit Trust in the Digital Economy. My primary research interests are Data Security and Privacy, with a focus on Privacy-Preserving (or Enhancing) technologies and Information Security for Web and Mobile applications, (Provably) private date sharing and Trustworthy Secure and Private Machine learning techniques. Prior to joining Macquarie University, I was founder and group leader of the Information Security and Privacy group at CSIRO Data61, a principal researcher at National ICT Australia (NICTA) and a permament researcher at the Privatics team at INRIA in France.
+I am the Executive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy Research Program. 
+
+With a team of collaborators I am interested in the broad R&D activities in Cyber Security in Emerging Technologies with a vision to enable Explicit Trust in the Digital Economy. My primary research interests are Data Security and Privacy, with a focus on Privacy-Preserving (or Enhancing) technologies and Information Security for Web and Mobile applications, (Provably) private date sharing and Trustworthy Secure and Private Machine learning techniques. 
+
+Prior to joining Macquarie University, I was founder and group leader of the Information Security and Privacy group at CSIRO Data61, a principal researcher at National ICT Australia (NICTA) and a permament researcher at the Privatics team at INRIA in France.
 
 
 Current Activities:
@@ -25,6 +28,9 @@ Associate Editor of ACM Transactions on Modeling and Performance Evaluation of C
 
 Editorial Board member of Journal of Privacy Enhancing Technologies (PoPET).
 
+Some previous community services : 
+======
+
 General Chair of PAM 2017.
 
 Guest Editor for the IEEE Internet Computing on Small Wearable Internet 2015
@@ -33,8 +39,6 @@ TPC Member of PETS 2020, PPML19, IEEE ICNP 2019, TMA 2019, IMC 2017, ACM CoNEXT 
 
 TPC co-chair of CoNext 2015 Student Workshop.
 
-Some previous community services : 
-======
 TPC Co-chair of ACM Mobicom SPME (Security and Privacy in Mobile Environment) workshop 2014,
 
 TPC co-Chair of ACM SIGMETRICS PADE workshop 2012, Co-Chair of IEEE LCN PADE 2013-2014,
