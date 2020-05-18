@@ -7,9 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+General Chair for Privacy Enhancing Technologies Symposium (PETS) 2021 that will be held in Sydney in July 2021.
+
+General Co-Chair of CDNG 2020
+
 Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ACM ToMPECS)
 
 Editorial Board member of Journal of Privacy Enhancing Technologies (PoPET).
+
+**Some previous community services :** 
 
 General Chair of PAM 2017.
 
@@ -18,8 +24,6 @@ Guest Editor for the IEEE Internet Computing on Small Wearable Internet 2015
 TPC Member of PETS 2020, PPML19, IEEE ICNP 2019, TMA 2019, IMC 2017, ACM CoNEXT 2017, ACM CoNEXT 2016, PETS 2016, IEEE ICC 2016, IFIP TMA 2016, SIGCOMM AINTEC 2016, ACM CoNEXT 2015, ACM IMC 2015, WWW 2015, IEEE MASCOTS 2015, PETS 2015, IFIP TMA 2015, HotPlanet 2015.
 
 TPC co-chair of [CoNext 2015 Student Workshop](http://conferences2.sigcomm.org/co-next/2015/#!/home).
-
-Some previous community services : 
 
 TPC Co-chair of ACM Mobicom SPME (Security and Privacy in Mobile Environment) workshop 2014,
 
