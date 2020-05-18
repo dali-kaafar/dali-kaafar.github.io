@@ -336,6 +336,77 @@ M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Charac
 – S. Leblond, P.Manils, A.Chaabane, M. A. Kaafar, A. Legout, C.Castelluccia, “De-anonymizing BitTorrent users on Tor”, Poster in the USENIX symposium on Networked Systems Design and Implementation (NSDI’10), San Jose, CA, April 2010.<span style="background-color:#FAEBD7">[pdf](https://hal.inria.fr/inria-00471177/document)</span> <span style="background-color:#98FB98">
 
 
+**2009 Backwards** 
+
+– C. Castelluccia, M. A. Kaafar, P. Manils, D. Perito, “Geolocalization of Proxied Services and its Application to Fast-Flux Hidden Servers”, In Proceedings of the ACM/Usenix Internet Measurement Conference (ACM IMC 2009), Chicago, November 2009. 
+
+– M. A. Kaafar, L. Mathy, C. Barakat. K. Salamatian, T. Turletti, and W. Dabbous. “Certified Internet Coordinates” In Proceedings of the 18th International Conference on Computer Communications and Networks, Track on Peer to Peer Networking, San Francisco, ICCCN, August 2009.
+
+-C.Castelluccia, M.A. Kaafar, “Owner-Centric Networking (OCN): Toward A Data Pollution-Free Internet.”, Applications and the Internet, IEEE/IPSJ International Symposium on (SAINT 2009), FIST’09, Seattle, August, 2009.
+
+-C.Castelluccia, M. A. Kaafar,”Owner-Centric Networking: A New Architecture for
+a Pollution-Free Internet”, In ERCIM News No.77, Special Theme on Future Internet Technology, April 2009.
+
+– A. Chaabane and M. A. Kaafar. Revisiting unstructured overlay network security. In Foundations & Practice Of Security workshop, Grenoble, June 2009.
+
+-Y. Liao, M. A. Kaafar, B. Gueye, F. Cantin, P. Geurts and G. Leduc, ” Detecting Triangle Inequality Violations in Internet Coordinate Systems by Supervised Learning”, In Proc. of Networking 2009, May 2009, Aachen, Germany, LNCS, Springer.
+
+– M.A. Kaafar, F. Cantin, B. Gueye and G. Leduc, “Detecting triangle inequality violations for Internet coordinate systems, In Proceedings of Future Networks, Dresden, Germany, June 2009.
+
+– F. Cantin, B. Gueye, M.A.Kaafar and G.Leduc. “Overlay routing using coordinate systems”, In Proceedings of ACM CoNext student workshop, 9 Dec 2008, Madrid, Spain.
+
+– B. Gueye, F. Cantin, M. A. Kaafar, G. Leduc. “A Self-Organized clustering scheme for overlay networks” in Proceedings of the International Workshop on Self-Organized Systems (IWSoS), 10-12 Dec 2008, Vienna, Austria, LNCS, Springer.
+
+– M. A. Kaafar, B. Gueye, F. Cantin, G. Leduc, and L. Mathy. “Towards a Two-tier Internet coordinate system to mitigate the impact of triangle inequality violations” In Proceedings of IFIP-TC6 Networking, Singapore, 2008. Lectures Notes in Computer Science, May 2008.
+
+– M.A. Kaafar, L. Mathy, C. Barakat. K. Salamatian, T. Turletti, and W. Dabbous. “Securing Internet Coordinate Embedding Systems” In Proceedings of ACM SIGCOMM 2007, Kyoto, Japan, August 2007. 
+
+also in SIGCOMM Computer Communication Review CCR online.
+
+– F. Cantin, M. A. Kaafar, B. Gueye, G. Leduc, L. Mathy. “Explication et réduction de l’impact des violations d’inégalités triangulaires dans Vivaldi”, in CFIP 2008, Les arcs, 2008.
+
+– M. A. Kaafar, L. Mathy, C. Barakat, K. Salamatian, T. Turletti, W. Dabbous, “Securing Internet Coordinate Systems, Invited paper at AINTEC 2007, Phuket, November 2007.
+
+– M.A. Kaafar, L. Mathy, T. Turletti, and W. Dabbous. “Virtual Networks under Attack: Disrupting Internet Coordinate Systems”, In Proceedings of the ACM/e-NEXT International Conference on Future Networking Technologies, CoNext 2006, Lisboa, Portugal, December, 2006. ACM Press. 
+
+– C. Mrabet, M.A. Kaafar, F. Kamoun, “Wireless Alternative Best Effort service: A case study of ALM, In Proc. Of CoNext 2006 St. Workshop, Lisboa, December 2006.
+
+– M.A. Kaafar, C. Mrabet, and T. Turletti. “A Topolopgy-aware overlay multicast approach for mobile ad-hoc networks”, In Proceedings of the Asian Internet Engineering Conference (AINTEC), LNCS 4311, pp. 31–47, Bangkok, Thailand, November, 2006.
+
+– M.A. Kaafar, L. Mathy, T. Turletti, and W. Dabbous. “Real Attacks on Virtual Networks: Vivaldi out of tune”, In Proceedings of the ACM SIGCOMM workshop Large Scale Attack Defense (LSAD), Pisa, Italy, September 2006. ACM SIGCOMM, ACM Press. 
+
+– M.A. Kaafar, T. Turletti, and W. Dabbous. “Un réseau de recouvrement multipoint passant à léchelle”, In Proceedings of CFIP 2006, Tozeur, Tunisia, November 2006.
+
+– C. Mrabet, M.A. Kaafar, and F. Kamoun. “Transmission applicative multipoint pour les réseaux ad-hoc”, In Proceedings of CFIP 2006, Tozeur, Tunisia, November 2006.
+
+– M.A. Kaafar, T. Turletti, and W. Dabbous. “A Locating-First Approach for Scalable Overlay multicast”, in Proceedings of IEEE IWQoS, New Haven,CT, USA, June 2006. 
+
+Finalist for the best paper award.
+
+– M.A. Kaafar, T. Turletti, and W. Dabbous. “A Locating-First Approach for Scalable Overlay multicast”, in Proceedings of IEEE INFOCOM st. Workshop, Barcelona, April 2006.
+
+– M.A. Kaafar, T. Turletti, and W. Dabbous. “LCC: Scalablity in Topology-aware Overlays”, Tech. Report RT-0314, Sophia Antipolis, November 2005.
+
+– M.A. Kaafar, T. Turletti, and W. Dabbous. “Locate, Cluster and Conquer: A Scalable Topology-aware Overlay Multicast”, In proceedings of the WG3 PhD workshop, Sophia Antipolis, September 2005.
+
+– M.A.Kaafar, L. Benazzouz and F.Kamoun. “Test beds and experiments of a Kerberos-based authentication architecture for Wi-Fi networks”. In proceedings of the IFIP-TC6 conference “Netcon 2004″, palma de Mallorca, November 2004.
+
+– M.A. Kaafar, L. Benazzouz, D. Males and F. Kamoun. “A Kerberos-based Authentication Architecture for Wireless LANs”, In proceedings of the third IFIP-TC6 international conference on networking (Networking 2004), Athens, May 2004.
+
+Technical Reports
+
+– P. Manils, A. Chaabane, S. Leblond, M. A. Kaafar, A. Legout, C. Castelluccia, and W. Dabbous. Compromizing tor anonymity exploiting p2p information leakage. Technical report,
+INRIA,http://hal.inria.fr/inria-00471556/fr/
+
+– M. A. Kaafar, L. Mathy, C. Barakat, K. Salamatian, T. Turletti, W. Dabbous, Securing the distance Estimation phase of Internet Coordinate systems, Technical Report INRIA,http://hal.inria.fr/inria-00197605/en/
+
+– M. A. Kaafar, L. Mathy, C. Barakat, K. Salamatian, T. Turletti, W. Dabbous, Securing Internet Coordinate System : Embedding Phase, Technical Report INRIA,http://hal.inria.fr/inria-00151257/fr/
+
+– M. A. Kaafar, L. Mathy, T. Tureltti, W. Dabbous, Virtual Networks under Attack : Disrupting Internet Coordinate Systems, Technical Report INRIA,http://hal.inria.fr/inria-00085296/fr/
+
+– M. A. Kaafar, T. Tureltti, W. Dabbous, Locate, Cluster and Conquer : A Scalable Topologyaware Overlay Multicast, Technical Report INRIA, http://hal.inria.fr/inria-00069866/fr/
+
+
 <!---
 Deactivated texts
 --->
