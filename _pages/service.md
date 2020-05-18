@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-General Chair for Privacy Enhancing Technologies Symposium (PETS) 2021 that will be held in Sydney in July 2021.
+General Chair for **Privacy Enhancing Technologies Symposium (PETS) 2021** that will be held in Sydney in July 2021.
 
-General Co-Chair of CDNG 2020
+General Co-Chair of (Cyber Defence Next Generation Technology & science Conference) **CDNG 2020**
 
-Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (ACM ToMPECS)
+Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (**ACM ToMPECS**)
 
-Editorial Board member of Journal of Privacy Enhancing Technologies (PoPET).
+Editorial Board member of **Journal of Privacy Enhancing Technologies (PoPET)**.
 
 **Some previous community services :** 
 
