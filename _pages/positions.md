@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-I am hiring. Several Postdoc and PhD scholarshop positions. 
+I am hiring. Several Postdoc and PhD scholarship positions. 
 
 **Several Open Postdoc Positions**
 
