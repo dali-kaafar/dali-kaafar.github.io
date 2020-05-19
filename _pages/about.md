@@ -10,7 +10,7 @@ redirect_from:
 
 I am (Full) Professor at the Faculty of Science and Engineering, Computing Department at Macquarie University, Sydney, Australia. 
 
-I am the Executive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy Research Program. 
+I am the Executive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy R&D Program. 
 
 With a team of collaborators I am interested in the broad R&D activities in Cyber Security in Emerging Technologies with a vision to enable Explicit Trust in the Digital Economy. My primary research interests are Data Security and Privacy, with a focus on Privacy-Preserving (or Enhancing) technologies and Information Security for Web and Mobile applications, (Provably) private date sharing and Trustworthy Secure and Private Machine learning techniques. 
 
