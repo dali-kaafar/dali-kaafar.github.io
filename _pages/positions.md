@@ -8,6 +8,36 @@ author_profile: true
 {% include base_path %}
 
 
+I am hiring. Several Postdoc and PhD scholarshop positions. 
+
+**Several Open Postdoc Positions**
+
+We will be releasing the details of the positions soon, but if you are into any of the following broad topics then you may want to apply for one of the postdoc positions we are opening:
+
+- Trustowrthy Machine Learning, Fairness and Accountability  
+- Privacy and Security in Machine Learning
+- Ethics and Law of ML, 
+- Health Analytics
+- Information Security and Cryptography 
+- Internet privacy and security analytics
+
+Send me your CV if you think have expertise in any of the above. 
+
+
+
+** Open Domestic PhD Scholarship Positions**
+
+If you are a Domestic Student and would like to pursue an MRes or a PhD in any of the following areas, please contact me. We offer Mres and Phd Scholarships and very competitive Stipends to outstanding candidates.
+
+ - Software and Cyber Physical Systems Security
+ - Data Security and Privacy
+ - Risk Management Governance and Control
+ - Legal and Ethics of Cybersecurity
+ - Human-Centric and Health-related Cyber security
+ - Cyber Strategy, Foresight and Policy
+
+
+
 **Interested in pursuing a Master by Research or a PhD in Cyber Security and Privacy in Sydney?**
  
 
