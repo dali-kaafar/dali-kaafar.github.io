@@ -17,6 +17,8 @@ With a team of collaborators I am interested in the broad R&D activities in Cybe
 Prior to joining Macquarie University, I was founder and group leader of the Information Security and Privacy group at CSIRO Data61, a principal researcher at National ICT Australia (NICTA) and a permament researcher at the Privatics team at INRIA in France.
 
 
-**I am Hiring! Several Postdocs and Phd Students **. please check https://dali-kaafar.github.io/positions/ 
+**I am Hiring! Several Postdocs and Phd Students **. 
+
+please check https://dali-kaafar.github.io/positions/ 
 
 
