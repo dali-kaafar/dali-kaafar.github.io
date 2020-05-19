@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am (Full) Professor at the Faculty of Science and Engineernig,Computing Department at Macquarie University, Sydney, Australia. 
+I am (Full) Professor at the Faculty of Science and Engineering, Computing Department at Macquarie University, Sydney, Australia. 
 
 I am the Executive Director of the Optus Macquarie University Cyber Security Hub and director of the Data Security and Privacy Research Program. 
 
