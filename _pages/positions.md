@@ -8,20 +8,20 @@ author_profile: true
 {% include base_path %}
 
 
-I am hiring. Several Postdoc and PhD scholarship positions. 
+I am hiring. Several Postdoc and PhD scholarship positions.
 
 **Several Open Postdoc Positions**
 
 We will be releasing the details of the positions soon, but if you are into any of the following broad topics then you may want to apply for one of the postdoc positions we are opening:
 
-- Trustowrthy Machine Learning, Fairness and Accountability  
+- Trustworthy Machine Learning, Fairness and Accountability  
 - Privacy and Security in Machine Learning
-- Ethics and Law of ML, 
+- Ethics and Law of ML,
 - Health Analytics
-- Information Security and Cryptography 
+- Information Security and Cryptography
 - Internet privacy and security analytics
 
-Send me your CV if you think have expertise in any of the above. 
+Send me your CV if you think have expertise in any of the above.
 
 
 
@@ -39,7 +39,7 @@ If you are a Domestic Student and would like to pursue an MRes or a PhD in any o
 
 
 **Interested in pursuing a Master by Research or a PhD in Cyber Security and Privacy in Sydney?**
- 
+
 
 This is probably the right page for you.
 
