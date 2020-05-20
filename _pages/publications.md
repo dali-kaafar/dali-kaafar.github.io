@@ -11,29 +11,31 @@ author_profile: true
 Here I list some selected peer-reviewed publications of mine.  
 For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com.au/citations?user=9DR87DQAAAAJ&hl=en&oi=ao) page.
 
-**2020** 
+**2020**
 
-– Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets", In IEEE Transactions on Vehicular Technology, In-press, accepted April, 2020. 
+- H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar, "Differentially Private Release of Datasets using Gaussian Copula", accepted in the Journal of Privacy and Confidentiality 2020.
+
+– Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets", In IEEE Transactions on Vehicular Technology, In-press, accepted April, 2020.
 
 
-– M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi, "Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading", In ACM Transaction on Privacy and Security (TOPS), March 2020. 
-<span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2020/04/ik_wot_tops_2020-1.pdf)</span> <span style="background-color:#98FB98"> 
+– M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi, "Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading", In ACM Transaction on Privacy and Security (TOPS), March 2020.
+<span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2020/04/ik_wot_tops_2020-1.pdf)</span> <span style="background-color:#98FB98">
 
-– B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2001.04056.pdf)</span> <span style="background-color:#98FB98"> 
+– B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2001.04056.pdf)</span> <span style="background-color:#98FB98">
 
-– H. Asghar, M.A. Kaafar, “Averaging Attacks on Bounded Noise-based Disclosure Control Algorithms”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1902.06414.pdf)</span> <span style="background-color:#98FB98"> 
+– H. Asghar, M.A. Kaafar, “Averaging Attacks on Bounded Noise-based Disclosure Control Algorithms”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1902.06414.pdf)</span> <span style="background-color:#98FB98">
 
-– P. Kamalaruban, V. Perrier, H. Asghar, M. A. Kaafar, “Not All Attributes are Created Equal: dx-Private Mechanisms for Linear Queries”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1806.02389.pdf)</span> <span style="background-color:#98FB98"> 
+– P. Kamalaruban, V. Perrier, H. Asghar, M. A. Kaafar, “Not All Attributes are Created Equal: dx-Private Mechanisms for Linear Queries”, Accepted in Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1806.02389.pdf)</span> <span style="background-color:#98FB98">
 
-– N. Wu, F. Farokhi, D. Smith and M.A. Kaafar, “The Value of Collaboration in Convex Machine Learning with Differential Privacy”, Accepted in the 41st IEEE Symposium on Security and Privacy (IEEE S&P), San Francisco, May 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1906.09679.pdf)</span> <span style="background-color:#98FB98"> 
+– N. Wu, F. Farokhi, D. Smith and M.A. Kaafar, “The Value of Collaboration in Convex Machine Learning with Differential Privacy”, Accepted in the 41st IEEE Symposium on Security and Privacy (IEEE S&P), San Francisco, May 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1906.09679.pdf)</span> <span style="background-color:#98FB98">
 
 
 **2019**
 
 
-– B.Z. Zhao, H. Asghar, R. Bhaskar and M. A. Kaafar, “On Inferring Training Data Attributes in Machine Learning Models”, In the ACM Conference on Computer and Communications Security CCS workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1908.10558.pdf)</span> <span style="background-color:#98FB98"> 
+– B.Z. Zhao, H. Asghar, R. Bhaskar and M. A. Kaafar, “On Inferring Training Data Attributes in Machine Learning Models”, In the ACM Conference on Computer and Communications Security CCS workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1908.10558.pdf)</span> <span style="background-color:#98FB98">
 
-– Y. Miao, B. Z. Zhao, M. Xue, C. Chen, L. Pan, J. Zhang, M.A. Kaafar, Y. Xiang, “The Audio Auditor: Participant-Level Membership Inference in Internet of Things Voice Services”, In the ACM Conference on Computer and Communications Security CCS workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1905.07082.pdf)</span> <span style="background-color:#98FB98"> 
+– Y. Miao, B. Z. Zhao, M. Xue, C. Chen, L. Pan, J. Zhang, M.A. Kaafar, Y. Xiang, “The Audio Auditor: Participant-Level Membership Inference in Internet of Things Voice Services”, In the ACM Conference on Computer and Communications Security CCS workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1905.07082.pdf)</span> <span style="background-color:#98FB98">
 
 
 – Q. Chen, C. Xiang, M. Xue, B. Li, N. Borisov, M.A. Kaafar and H. Zhu, “Differentially Private Data Sharing: Sharing Models versus Sharing Data”, In the ACM Conference on Computer and Communications Security (CCS) Workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/12/Differentially-Private-Data-Sharing.pdf)</span> <span style="background-color:#98FB98">
@@ -249,16 +251,16 @@ M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Charac
 - A. Chaabane, E. De Cristofaro, M. A. Kaafar, E. Uzun “Privacy in Content-Oriented Networking: Threats and Countermeasures” In SIGCOMM Computer Communication Review CCR, presented at ACM SIGCOMM 2013. <span style="background-color:#FAEBD7">[pdf](https://dl.acm.org/doi/pdf/10.1145/2500098.2500102)</span> <span style="background-color:#98FB98">
 
 
-- G. Sarwar, O. Mehani, R. Boreli, M. A. Kaafar “On the effectiveness of Dynamic Taint Analysis for Monitoring Private Information on Android-based Mobile Devices”, In SECRYPT 2013. 
+- G. Sarwar, O. Mehani, R. Boreli, M. A. Kaafar “On the effectiveness of Dynamic Taint Analysis for Monitoring Private Information on Android-based Mobile Devices”, In SECRYPT 2013.
 
 - T.Chen, A. Chaabane, P-U. tournoux, M.A. Kaafar, R. Boreli “How much is too much: Leveraging Ads Audience Estimation to Evaluate Public Profile Uniqueness”, In PETS 2013. <span style="background-color:#FAEBD7">[pdf](http://www.inrialpes.fr/planete/people/kaafar/kaafarPETS13.pdf)</span> <span style="background-color:#98FB98">
 
 
-- T. Chen, M. A. Kaafar, R. Boreli “The where and when of finding new friends: analysis of a location-based social discovery network”, in ICWSM 2013. 
+- T. Chen, M. A. Kaafar, R. Boreli “The where and when of finding new friends: analysis of a location-based social discovery network”, in ICWSM 2013.
 
-- D. Wang, H. Park, G. Xie, S.Moon, M.A. Kaafar, K.Salamatian, “A Genealogy of Information Spreading on Microblogs: a Galton-Watson-based Explicative Model”, In IEEE INFOCOM 2013. 
+- D. Wang, H. Park, G. Xie, S.Moon, M.A. Kaafar, K.Salamatian, “A Genealogy of Information Spreading on Microblogs: a Galton-Watson-based Explicative Model”, In IEEE INFOCOM 2013.
 
-- M. Cunche, M A Kaafar, R. Boreli, “Linking Wireless Devices Using Information Contained in Wi-Fi Probe Requests”, In The Pervasive and Mobile Computing journal PMC 2013. 
+- M. Cunche, M A Kaafar, R. Boreli, “Linking Wireless Devices Using Information Contained in Wi-Fi Probe Requests”, In The Pervasive and Mobile Computing journal PMC 2013.
 
 
 - Yonggong Wang, Gaogang Xie, Mohamed Ali Kaafar, Steve Uhlig, “LMD: a local minimum driven and self-organized method to obtain locators”, In the 18th IEEE Symposium on Computers and Communications (ISCC 2013), 2013. <span style="background-color:#FAEBD7">[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.449.3944&rep=rep1&type=pdf)</span> <span style="background-color:#98FB98">
@@ -336,9 +338,9 @@ M. Ding, D. Lopez-Perez, H. Claussen, M. A. Kaafar, “On the Fundamental Charac
 – S. Leblond, P.Manils, A.Chaabane, M. A. Kaafar, A. Legout, C.Castelluccia, “De-anonymizing BitTorrent users on Tor”, Poster in the USENIX symposium on Networked Systems Design and Implementation (NSDI’10), San Jose, CA, April 2010.<span style="background-color:#FAEBD7">[pdf](https://hal.inria.fr/inria-00471177/document)</span> <span style="background-color:#98FB98">
 
 
-**2009 Backwards** 
+**2009 Backwards**
 
-– C. Castelluccia, M. A. Kaafar, P. Manils, D. Perito, “Geolocalization of Proxied Services and its Application to Fast-Flux Hidden Servers”, In Proceedings of the ACM/Usenix Internet Measurement Conference (ACM IMC 2009), Chicago, November 2009. 
+– C. Castelluccia, M. A. Kaafar, P. Manils, D. Perito, “Geolocalization of Proxied Services and its Application to Fast-Flux Hidden Servers”, In Proceedings of the ACM/Usenix Internet Measurement Conference (ACM IMC 2009), Chicago, November 2009.
 
 – M. A. Kaafar, L. Mathy, C. Barakat. K. Salamatian, T. Turletti, and W. Dabbous. “Certified Internet Coordinates” In Proceedings of the 18th International Conference on Computer Communications and Networks, Track on Peer to Peer Networking, San Francisco, ICCCN, August 2009.
 
@@ -359,7 +361,7 @@ a Pollution-Free Internet”, In ERCIM News No.77, Special Theme on Future Inter
 
 – M. A. Kaafar, B. Gueye, F. Cantin, G. Leduc, and L. Mathy. “Towards a Two-tier Internet coordinate system to mitigate the impact of triangle inequality violations” In Proceedings of IFIP-TC6 Networking, Singapore, 2008. Lectures Notes in Computer Science, May 2008.
 
-– M.A. Kaafar, L. Mathy, C. Barakat. K. Salamatian, T. Turletti, and W. Dabbous. “Securing Internet Coordinate Embedding Systems” In Proceedings of ACM SIGCOMM 2007, Kyoto, Japan, August 2007. 
+– M.A. Kaafar, L. Mathy, C. Barakat. K. Salamatian, T. Turletti, and W. Dabbous. “Securing Internet Coordinate Embedding Systems” In Proceedings of ACM SIGCOMM 2007, Kyoto, Japan, August 2007.
 
 also in SIGCOMM Computer Communication Review CCR online.
 
@@ -367,19 +369,19 @@ also in SIGCOMM Computer Communication Review CCR online.
 
 – M. A. Kaafar, L. Mathy, C. Barakat, K. Salamatian, T. Turletti, W. Dabbous, “Securing Internet Coordinate Systems, Invited paper at AINTEC 2007, Phuket, November 2007.
 
-– M.A. Kaafar, L. Mathy, T. Turletti, and W. Dabbous. “Virtual Networks under Attack: Disrupting Internet Coordinate Systems”, In Proceedings of the ACM/e-NEXT International Conference on Future Networking Technologies, CoNext 2006, Lisboa, Portugal, December, 2006. ACM Press. 
+– M.A. Kaafar, L. Mathy, T. Turletti, and W. Dabbous. “Virtual Networks under Attack: Disrupting Internet Coordinate Systems”, In Proceedings of the ACM/e-NEXT International Conference on Future Networking Technologies, CoNext 2006, Lisboa, Portugal, December, 2006. ACM Press.
 
 – C. Mrabet, M.A. Kaafar, F. Kamoun, “Wireless Alternative Best Effort service: A case study of ALM, In Proc. Of CoNext 2006 St. Workshop, Lisboa, December 2006.
 
 – M.A. Kaafar, C. Mrabet, and T. Turletti. “A Topolopgy-aware overlay multicast approach for mobile ad-hoc networks”, In Proceedings of the Asian Internet Engineering Conference (AINTEC), LNCS 4311, pp. 31–47, Bangkok, Thailand, November, 2006.
 
-– M.A. Kaafar, L. Mathy, T. Turletti, and W. Dabbous. “Real Attacks on Virtual Networks: Vivaldi out of tune”, In Proceedings of the ACM SIGCOMM workshop Large Scale Attack Defense (LSAD), Pisa, Italy, September 2006. ACM SIGCOMM, ACM Press. 
+– M.A. Kaafar, L. Mathy, T. Turletti, and W. Dabbous. “Real Attacks on Virtual Networks: Vivaldi out of tune”, In Proceedings of the ACM SIGCOMM workshop Large Scale Attack Defense (LSAD), Pisa, Italy, September 2006. ACM SIGCOMM, ACM Press.
 
 – M.A. Kaafar, T. Turletti, and W. Dabbous. “Un réseau de recouvrement multipoint passant à léchelle”, In Proceedings of CFIP 2006, Tozeur, Tunisia, November 2006.
 
 – C. Mrabet, M.A. Kaafar, and F. Kamoun. “Transmission applicative multipoint pour les réseaux ad-hoc”, In Proceedings of CFIP 2006, Tozeur, Tunisia, November 2006.
 
-– M.A. Kaafar, T. Turletti, and W. Dabbous. “A Locating-First Approach for Scalable Overlay multicast”, in Proceedings of IEEE IWQoS, New Haven,CT, USA, June 2006. 
+– M.A. Kaafar, T. Turletti, and W. Dabbous. “A Locating-First Approach for Scalable Overlay multicast”, in Proceedings of IEEE IWQoS, New Haven,CT, USA, June 2006.
 
 Finalist for the best paper award.
 
@@ -410,4 +412,3 @@ INRIA,http://hal.inria.fr/inria-00471556/fr/
 <!---
 Deactivated texts
 --->
-
