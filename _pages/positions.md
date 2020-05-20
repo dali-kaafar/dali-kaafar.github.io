@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: ""
+title: ''
 permalink: /positions/
 author_profile: true
+published: true
 ---
 
 {% include base_path %}
 
 
-I am hiring. Several Postdoc and PhD scholarship positions.
+I am hiring. **Several Postdoc and PhD scholarship positions.**
 
 **Several Open Postdoc Positions**
 
@@ -16,16 +17,15 @@ We will be releasing the details of the positions soon, but if you are into any 
 
 - Trustworthy Machine Learning, Fairness and Accountability  
 - Privacy and Security in Machine Learning
-- Ethics and Law of ML,
+- Ethics and Law of ML
 - Health Analytics
 - Information Security and Cryptography
 - Internet privacy and security analytics
 
 Send me your CV if you think have expertise in any of the above.
 
+**Open Domestic PhD Scholarship Positions**
 
-
-** Open Domestic PhD Scholarship Positions**
 
 If you are a Domestic Student and would like to pursue an MRes or a PhD in any of the following areas, please contact me. We offer Mres and Phd Scholarships and very competitive Stipends to outstanding candidates.
 
@@ -84,9 +84,9 @@ https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees
 
 It is also VERY important to come up with a nice research proposal (that we can refine later when you’d start your PhD or MRes). However, it is crucial to show skills in research writing, scientific and methodological reasoning and ideas structuring.
 
-By now, I presume you already took a look at my current research activities https://research.csiro.au/ng/about-us/people/dali-kaafar/
+By now, I presume you already took a look at [my current research activities](https://dali-kaafar.github.io/publications/)
 
-However, before you apply to your PhD Admission and Scholarship, you need to  me your research proposal. Also make sure you include recent references and make sure you read some High quality papers to write up your proposals. If you need access to one of my papers and is not online, don’t hesitate to contact me and I ll make sure I send a PDF version to you.
+However, before you apply to your PhD Admission and Scholarship, you need to send me your research proposal. Make sure you include recent references and make sure you read some High quality papers to write up your proposals. If you need access to one of my papers and is not online, don’t hesitate to contact me and I'll make sure I send a PDF version to you.
 
 I have added some possible ideas of research projects here, and tagging them with the sort of profiles that I am expecting PhD students to have to be successful in these projects.
 I am almost exclusively working on Security and/or Privacy these days and so it is important you align to that.
