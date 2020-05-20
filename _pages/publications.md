@@ -15,10 +15,9 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 **2020**
 
 
-- H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar, "Differentially Private Release of Datasets using Gaussian Copula", Accepted in the Journal of Privacy and Confidentiality 2020.
-
 – Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets", In IEEE Transactions on Vehicular Technology, In-press, Accepted April, 2020.
 
+- H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar, "Differentially Private Release of Datasets using Gaussian Copula", Accepted in the Journal of Privacy and Confidentiality 2020.
 
 – M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi, "Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading", In ACM Transaction on Privacy and Security (TOPS), March 2020.
 <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2020/04/ik_wot_tops_2020-1.pdf)</span> <span style="background-color:#98FB98">
