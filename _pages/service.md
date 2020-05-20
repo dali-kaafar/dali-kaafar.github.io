@@ -1,19 +1,22 @@
 ---
 layout: archive
-title: "Current Activities"
+title: Current Activities
 permalink: /service/
 author_profile: true
+published: true
 ---
 
 {% include base_path %}
 
-General Chair for **Privacy Enhancing Technologies Symposium (PETS) 2021** that will be held in Sydney in July 2021.
+General Chair for [**Privacy Enhancing Technologies Symposium (PETS) 2021**](https://www.petsymposium.org/cfp21.php) that will be held in Sydney in July 2021.
 
-General Co-Chair of (Cyber Defence Next Generation Technology & science Conference) **CDNG 2020**
+General Co-Chair of [(Cyber Defence Next Generation Technology & science Conference) **CDNG 2020**](https://wp.csiro.au/cdng/)
 
-Associate Editor of ACM Transactions on Modeling and Performance Evaluation of Computing Systems (**ACM ToMPECS**)
+Member of the [Caspar Bowden Privacy Enhacing Technologies Award 2019 and 2020](https://petsymposium.org/award/cfn.php)
 
-Editorial Board member of **Journal of Privacy Enhancing Technologies (PoPET)**.
+Associate Editor of [ACM Transactions on Modeling and Performance Evaluation of Computing Systems (**ACM ToMPECS**)](https://dl.acm.org/journal/tompecs)
+
+Editorial Board member of [**Journal of Privacy Enhancing Technologies (PoPET)**.](https://petsymposium.org/)
 
 **Some previous community services :** 
 
@@ -38,5 +41,3 @@ Internet Science 2013, Internet, Interdisciplinarity & Innovation (In3 2013), Eu
 Panelist in IEEE CCW 2012, Panelist in the Colloquium on IT Security, Cyber Forensics and Combatting Cybercrime 2011.
 
 Chair of the Panel “Cyber Security Versus Online Privacy”, Sydney, November 2013.
-
- 
