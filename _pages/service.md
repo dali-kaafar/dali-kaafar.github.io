@@ -12,7 +12,7 @@ General Chair for [**Privacy Enhancing Technologies Symposium (PETS) 2021**](htt
 
 General Co-Chair of [(Cyber Defence Next Generation Technology & science Conference) **CDNG 2020**](https://wp.csiro.au/cdng/)
 
-Member of the [Caspar Bowden Privacy Enhacing Technologies Award 2019 and 2020](https://petsymposium.org/award/cfn.php)
+Member of the [Caspar Bowden Award Committee for Outstanding Research in Privacy Enhancing Technologies 2019 2020](https://petsymposium.org/award/cfn.php)
 
 Associate Editor of [ACM Transactions on Modeling and Performance Evaluation of Computing Systems (**ACM ToMPECS**)](https://dl.acm.org/journal/tompecs)
 
