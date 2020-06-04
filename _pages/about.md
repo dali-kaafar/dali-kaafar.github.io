@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Dali Kaafar
+title: Dali Kaafar 's Homepage
 excerpt: About me
 author_profile: true
 redirect_from:
@@ -19,5 +19,3 @@ Prior to joining Macquarie University, I was founder and group leader of the Inf
 
 
 **[I am Hiring! Several Postdocs and Phd Students.](https://dali-kaafar.github.io/positions/)**
-
-
