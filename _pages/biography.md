@@ -23,5 +23,3 @@ May 2013-Present : Visiting Professor at [Chinese Academy of Science (CAS)](http
 2008-2013: Research Scientist at [PLANETE](http://planete.inria.fr) ([Privatics](https://team.inria.fr/privatics/)) team, [INRIA Rhone-Alpes](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes), France.
 
 2007-2008 Post-Doctoral researcher at the [Research Unit in Networking (RUN)](http://www.run.montefiore.ulg.ac.be) at the University of liege, Belgium.
-
-
