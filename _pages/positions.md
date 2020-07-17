@@ -13,7 +13,7 @@ I am hiring. **Several Postdoc and PhD scholarship positions.**
 
 **Several Open Postdoc Positions**
 
-We will be releasing the details of the positions soon, but if you are into any of the following broad topics then you may want to apply for one of the postdoc positions we are opening:
+If you are passionate about S&P and/or ML/AI and data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply.
 
 - Trustworthy Machine Learning, Fairness and Accountability  
 - Privacy and Security in Machine Learning
@@ -22,7 +22,18 @@ We will be releasing the details of the positions soon, but if you are into any 
 - Information Security and Cryptography
 - Internet privacy and security analytics
 
-Send me your CV if you think have expertise in any of the above.
+Send me your CV if you think have expertise in any of the above and apply here:
+
+[https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow](https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow)
+
+[https://jobs.mq.edu.au/en/job/507903/postdoc-research-fellow-cyber-security-research](https://jobs.mq.edu.au/en/job/507903/postdoc-research-fellow-cyber-security-research)
+
+[https://jobs.mq.edu.au/en/job/507902/postdoc-research-fellow-data-privacy-in-ai-platforms-dpaip](https://jobs.mq.edu.au/en/job/507902/postdoc-research-fellow-data-privacy-in-ai-platforms-dpaip)
+
+
+
+
+
 
 **Open Domestic PhD Scholarship Positions**
 
