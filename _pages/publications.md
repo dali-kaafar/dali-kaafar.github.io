@@ -31,7 +31,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 – P. Kamalaruban, V. Perrier, H. Asghar, M. A. Kaafar, “Not All Attributes are Created Equal: dx-Private Mechanisms for Linear Queries”, In Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1806.02389.pdf)</span> <span style="background-color:#98FB98">
 
 – N. Wu, F. Farokhi, D. Smith and M.A. Kaafar, “The Value of Collaboration in Convex Machine Learning with Differential Privacy”, In the 41st IEEE Symposium on Security and Privacy (IEEE S&P), San Francisco, May 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1906.09679.pdf)</span> <span style="background-color:#98FB98">
-
+  
 - M. Yousefi-Azar, M.A. Kaafar, A. Walker. "Unsupervised Learning for security of Enterprise networks by micro-segmentation." [arXiv preprint arXiv:2003.11231](https://arxiv.org/pdf/2003.11231.pdf)(2020).
 
 - F. Farokhi, N. Wu, D. Smith, M.A. Kaafar. "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", arXiv preprint [arXiv:2003.08500](https://arxiv.org/abs/2003.08500) (2020).
