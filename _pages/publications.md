@@ -41,6 +41,8 @@ M. Monteiro , K. Kumara, H. Asghar, K. Thilakarathna, T. Rakotoarivelo, M.A. Kaa
 S. Tonni, F. Farokhi, D. Vatsalan, M.A. Kaafar, Z. Lu, G. Tangari. "Data and Model Dependencies of Membership Inference Attack." arXiv preprint [arXiv:2002.06856](https://arxiv.org/abs/2002.06856) (2020).
 
 Farokhi, Farhad, and Mohamed Ali Kaafar. "Modelling and Quantifying Membership Information Leakage in Machine Learning." arXiv [preprint arXiv:2001.10648](https://arxiv.org/abs/2001.10648) (2020).
+  
+- A. Shaghaghi, M.A. kaafar, R. Buyya, S. Jha. "Software-Defined Network (SDN) Data Plane Security: Issues, Solutions, and Future Directions." In Handbook of Computer Networks and Cyber Security, pp. 341-387. Springer, Cham, 2020.  
 
 
 **2019**
