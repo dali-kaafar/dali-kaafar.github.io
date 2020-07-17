@@ -13,11 +13,14 @@ published: true
 
 The Information Security and Privacy ISP Group at Macquarie University and The Optus Macquarie University Cyber Security Hub is hiring three postdoctoral research fellows in Security and Privacy.
 
-[https://lnkd.in/gUtTJsZ](https://lnkd.in/gUtTJsZ)
+[https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow](https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow)
 
-[https://lnkd.in/gCMxuYy](https://lnkd.in/gCMxuYy)
+[https://jobs.mq.edu.au/en/job/507903/postdoc-research-fellow-cyber-security-research](https://jobs.mq.edu.au/en/job/507903/postdoc-research-fellow-cyber-security-research)
 
-[https://lnkd.in/g4gysbb](https://lnkd.in/g4gysbb )
+[https://jobs.mq.edu.au/en/job/507902/postdoc-research-fellow-data-privacy-in-ai-platforms-dpaip](https://jobs.mq.edu.au/en/job/507902/postdoc-research-fellow-data-privacy-in-ai-platforms-dpaip)
+
+
+
 
 
 If you are passionate about S&P and/or ML/AI and data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply.
