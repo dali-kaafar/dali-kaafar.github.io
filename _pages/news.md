@@ -8,13 +8,32 @@ author_profile: true
 {% include base_path %}
 
 
+**Open Postdoc Positions** 
+
+The Information Security and Privacy ISP Group at Macquarie University and The Optus Macquarie University Cyber Security Hub is hiring three postdoctoral research fellows in Security and Privacy.
+
+https://lnkd.in/gUtTJsZ
+
+https://lnkd.in/gCMxuYy
+
+https://lnkd.in/g4gysbb 
+
+
+If you are passionate about S&P and/or ML/AI and data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply.
+
+-Trustworthy Machine Learning, Fairness and Accountability
+-Privacy and Security in Machine Learning
+-Legal and Ethics of ML
+-Security and Privacy of OMICS
+-Information Security and Applied Cryptography
+-Internet privacy and security analytics
+-Web and Mobile Security 
+#cybersecurity #privacy #informationsecurity #postdocs #Research
+
 **Open Scholarship Positions:**
 
 Several Domestic PhD Scholarships available. Send me an email if you’re interested in pursuing a PhD in the broad areas of Cyber Security, Privacy, Human Centric Security and ML security.
 
-[“Human-centric Security: Modelling and measuring end user susceptibility to cyber security threats”](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/human-centric-security-modelling-and-measuring-end-user-susceptibility-to-cyber-security-threats)
-
-[“Secure AI Platforms: Building Resilient Machine Learning as a Service”](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/secure-ai-platforms-building-resilient-machine-learning-as-a-service)
 
 #scholarships #cybersecuritythreats #OMQCSH #machinelearning #AI
 
