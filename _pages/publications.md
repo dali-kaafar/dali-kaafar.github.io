@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 **2020**
 
 
-– Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets", In IEEE Transactions on Vehicular Technology, Publication Date: JULY 2020, Volume: 69, Issue: 7, DOI: 10.1109/TVT.2020.2994157
+– Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "[P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets](https://ieeexplore.ieee.org/document/9091315)", In IEEE Transactions on Vehicular Technology, Publication Date: JULY 2020, Volume: 69, Issue: 7, DOI: [10.1109/TVT.2020.2994157](https://ieeexplore.ieee.org/document/9091315/)
 
 
 – H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar, "Differentially Private Release of Datasets using Gaussian Copula", Accepted in the Journal of Privacy and Confidentiality 2020.
