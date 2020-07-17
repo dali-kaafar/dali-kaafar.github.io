@@ -18,10 +18,10 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 – Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "[P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets](https://ieeexplore.ieee.org/document/9091315)", In IEEE Transactions on Vehicular Technology, Publication Date: JULY 2020, Volume: 69, Issue: 7, DOI: [10.1109/TVT.2020.2994157](https://ieeexplore.ieee.org/document/9091315/)
 
 
--H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar. "Differentially Private Release of Datasets using Gaussian Copula." Journal of Privacy and Confidentiality 10, no. 2 (2020). https://journalprivacyconfidentiality.org/index.php/jpc/article/download/686/704  
+-H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar. "Differentially Private Release of Datasets using Gaussian Copula." Journal of Privacy and Confidentiality 10, no. 2 (2020). [PDF](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/686/704)
 
 
-– M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi, "Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading", In ACM Transaction on Privacy and Security (TOPS), March 2020.
+– M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi, "Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading", In ACM Transactions on Privacy and Security (TOPS), March 2020.
 <span style="background-color:#FAEBD7">[pdf](https://imikr4m.github.io/files/ik_wot_tops_2020.pdf)</span> <span style="background-color:#98FB98">
   
 – B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2001.04056.pdf)</span> <span style="background-color:#98FB98">
