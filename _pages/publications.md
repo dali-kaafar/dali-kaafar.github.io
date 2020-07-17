@@ -18,7 +18,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 – Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "[P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets](https://ieeexplore.ieee.org/document/9091315)", In IEEE Transactions on Vehicular Technology, Publication Date: JULY 2020, Volume: 69, Issue: 7, DOI: [10.1109/TVT.2020.2994157](https://ieeexplore.ieee.org/document/9091315/)
 
 
--H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar. "Differentially Private Release of Datasets using Gaussian Copula." Journal of Privacy and Confidentiality 10, no. 2 (2020). [PDF](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/686/704)
+-H. Asghar, M. Ding, T. Rakotoarivelo, S. Mrabet, M.A. Kaafar. "Differentially Private Release of Datasets using Gaussian Copula." Journal of Privacy and Confidentiality 10, no. 2 (2020). [pdf](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/686/704)
 
 
 – M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi, "Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading", In ACM Transactions on Privacy and Security (TOPS), March 2020.
@@ -36,7 +36,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
   
 – F. Farokhi, N. Wu, D. Smith, M.A. Kaafar. "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", arXiv preprint [arXiv:2003.08500](https://arxiv.org/abs/2003.08500) (2020).
   
-– M. Monteiro , K. Kumara, H. Asghar, K. Thilakarathna, T. Rakotoarivelo, M.A. Kaafar, S. Li, R. Steinfeld, J. Pieprzyk. "Foxtail+: A Learning with Errors-based Authentication Protocol for Resource-Constrained Devices." IACR Cryptol. ePrint Arch. 2020 (2020): 261.
+– M. Monteiro , K. Kumara, H. Asghar, K. Thilakarathna, T. Rakotoarivelo, M.A. Kaafar, S. Li, R. Steinfeld, J. Pieprzyk. "Foxtail+: A Learning with Errors-based Authentication Protocol for Resource-Constrained Devices." IACR Cryptol. ePrint Arch. 2020 (2020): 261. [pdf](https://eprint.iacr.org/2020/261)
   
 – S. Tonni, F. Farokhi, D. Vatsalan, M.A. Kaafar, Z. Lu, G. Tangari. "Data and Model Dependencies of Membership Inference Attack." arXiv preprint [arXiv:2002.06856](https://arxiv.org/abs/2002.06856) (2020).
   
