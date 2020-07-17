@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: ""
+title: ''
 permalink: /news/
 author_profile: true
+published: true
 ---
 
 {% include base_path %}
