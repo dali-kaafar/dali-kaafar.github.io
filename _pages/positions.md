@@ -13,7 +13,7 @@ I am hiring. **Several Postdoc and PhD scholarship positions.**
 
 **Several Open Postdoc Positions**
 
-If you are passionate about S&P and/or ML/AI and data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply.
+If you are passionate about S&P and/or ML/AI and data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply (**Applications close: 06 Sep 2020 AUS Eastern Standard Time**)
 
 - Trustworthy Machine Learning, Fairness and Accountability  
 - Privacy and Security in Machine Learning
@@ -34,8 +34,8 @@ Send me your CV if you think have expertise in any of the above and apply here:
 
 **International PhD scholarship **
 
-For International Candidates: Interested in a PhD in Internet privacy and security analytics or Machine learning security and privacy analysis, apply for the following Scholarship (Closing Date
-30 Nov 2020 12am AEDT)
+For International Candidates: Interested in a PhD in Internet privacy and security analytics or Machine learning security and privacy analysis, apply for the following Scholarship (**Closing Date
+30 Nov 2020 12am AEDT**)
 
 [https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics)
 
