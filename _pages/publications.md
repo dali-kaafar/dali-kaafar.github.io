@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 **2020**
 
 
-- B. Zhao, H. Asghar, M.A. Kaafar, F. Trevisan, H. Yuan, "Exploiting Behavioral Side-Channels in Observation Resilient Cognitive Authentication Schemes", ACM Transaction of Privacy and Security (TOPS), 2020. [pdf](https://arxiv.org/abs/2007.11210)
+– B. Zhao, H. Asghar, M.A. Kaafar, F. Trevisan, H. Yuan, "Exploiting Behavioral Side-Channels in Observation Resilient Cognitive Authentication Schemes", ACM Transaction of Privacy and Security (TOPS), 2020. [pdf](https://arxiv.org/abs/2007.11210)
 
 
 – Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "[P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets](https://ieeexplore.ieee.org/document/9091315)", In IEEE Transactions on Vehicular Technology, Publication Date: JULY 2020, Volume: 69, Issue: 7, DOI: [10.1109/TVT.2020.2994157](https://ieeexplore.ieee.org/document/9091315/)
