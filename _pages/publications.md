@@ -15,6 +15,10 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 **2020**
 
 
+– B. Zhao, M.A. Kaafar, N. Kourtellis, "Not one but many Tradeoffs: Privacy Vs. Utility in Differentially Private Machine Learning", in ACM CCSW 2020: The ACM CCS Cloud Computing Security Workshop 2020. [pdf](https://arxiv.org/abs/2008.08807) 
+
+
+
 – B. Zhao, H. Asghar, M.A. Kaafar, F. Trevisan, H. Yuan, "Exploiting Behavioral Side-Channels in Observation Resilient Cognitive Authentication Schemes", ACM Transaction of Privacy and Security (TOPS), 2020. [pdf](https://arxiv.org/abs/2007.11210)
 
 
