@@ -12,6 +12,11 @@ published: true
 Here I list some selected peer-reviewed publications of mine.  
 For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com.au/citations?user=9DR87DQAAAAJ&hl=en&oi=ao) page.
 
+
+**2021**
+
+F. Farokhi, D. Kaafar, N. Wu. D. Smith, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", accepted in IEEE Transcations of Information Forensics and Security. To be published in 2021. Authors Draft version: https://arxiv.org/abs/2003.08500
+
 **2020**
 
 
