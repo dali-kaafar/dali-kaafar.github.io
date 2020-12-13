@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2021**
 
-F. Farokhi, N. Wu, D. Smith, D. Kaafar, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", accepted in IEEE Transcations of Information Forensics and Security (IEEE T-IFS). To be published in 2021. [Authors Draft version.](https://arxiv.org/abs/2003.08500)
+F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", accepted in IEEE Transcations of Information Forensics and Security (IEEE T-IFS). To be published in 2021. [Authors Draft version.](https://arxiv.org/abs/2003.08500)
 
 **2020**
 
