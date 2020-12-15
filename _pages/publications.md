@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2021**
 
-F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", accepted in IEEE Transcations of Information Forensics and Security (IEEE T-IFS). To be published in 2021. [Authors Draft version.](https://arxiv.org/abs/2003.08500)
+F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", accepted in IEEE Transactions of Information Forensics and Security (IEEE T-IFS). To be published in 2021. [Authors Draft version.](https://arxiv.org/abs/2003.08500)
 
 **2020**
 
@@ -23,8 +23,7 @@ F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous D
 – B. Zhao, M.A. Kaafar, N. Kourtellis, "Not one but many Tradeoffs: Privacy Vs. Utility in Differentially Private Machine Learning", in ACM CCSW 2020: The ACM CCS Cloud Computing Security Workshop 2020. [pdf](https://arxiv.org/abs/2008.08807) 
 
 
-
-– B. Zhao, H. Asghar, M.A. Kaafar, F. Trevisan, H. Yuan, "Exploiting Behavioral Side-Channels in Observation Resilient Cognitive Authentication Schemes", ACM Transaction of Privacy and Security (TOPS), 2020. [pdf](https://arxiv.org/abs/2007.11210)
+– B. Zhao, H. Asghar, M.A. Kaafar, F. Trevisan, H. Yuan, "Exploiting Behavioral Side-Channels in Observation Resilient Cognitive Authentication Schemes", ACM Transactions of Privacy and Security (TOPS), 2020. [pdf](https://arxiv.org/abs/2007.11210)
 
 
 – Q. Yang, Y. Shen, D. Vatsalan, J. Zhang, M.A. Kaafar, W. Hu, "[P4Mobi: A Probabilistic Privacy-Preserving Framework for Publishing Mobility Datasets](https://ieeexplore.ieee.org/document/9091315)", In IEEE Transactions on Vehicular Technology, Publication Date: JULY 2020, Volume: 69, Issue: 7, DOI: [10.1109/TVT.2020.2994157](https://ieeexplore.ieee.org/document/9091315/)
@@ -36,23 +35,33 @@ F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous D
 – M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon, R. Ensafi, "Measuring and Analysing the Chain of Implicit Trust: A Study of Third-party Resources Loading", In ACM Transactions on Privacy and Security (TOPS), March 2020.
 <span style="background-color:#FAEBD7">[pdf](https://imikr4m.github.io/files/ik_wot_tops_2020.pdf)</span> <span style="background-color:#98FB98">
   
+  
 – B. Z.  Zhao, H. J. Asghar and M. A. Kaafar, “On the Resilience of Biometric Authentication Systems against Random Inputs”, in The Network and Distributed System Security Symposium (NDSS 2020), San Diego, February 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/2001.04056.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – H. Asghar, M.A. Kaafar, “Averaging Attacks on Bounded Noise-based Disclosure Control Algorithms”, In Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1902.06414.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – P. Kamalaruban, V. Perrier, H. Asghar, M. A. Kaafar, “Not All Attributes are Created Equal: dx-Private Mechanisms for Linear Queries”, In Privacy Preserving Technologies Symposium (PETS 2020), Montreal, July 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1806.02389.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – N. Wu, F. Farokhi, D. Smith and M.A. Kaafar, “The Value of Collaboration in Convex Machine Learning with Differential Privacy”, In the 41st IEEE Symposium on Security and Privacy (IEEE S&P), San Francisco, May 2020. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1906.09679.pdf)</span> <span style="background-color:#98FB98">
+  
   
 – M. Yousefi-Azar, M.A. Kaafar, A. Walker. "Unsupervised Learning for security of Enterprise networks by micro-segmentation." [arXiv preprint arXiv:2003.11231](https://arxiv.org/pdf/2003.11231.pdf)(2020).
   
+  
 – F. Farokhi, N. Wu, D. Smith, M.A. Kaafar. "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", arXiv preprint [arXiv:2003.08500](https://arxiv.org/abs/2003.08500) (2020).
+  
   
 – M. Monteiro , K. Kumara, H. Asghar, K. Thilakarathna, T. Rakotoarivelo, M.A. Kaafar, S. Li, R. Steinfeld, J. Pieprzyk. "Foxtail+: A Learning with Errors-based Authentication Protocol for Resource-Constrained Devices." IACR Cryptol. ePrint Arch. 2020 (2020): 261. [pdf](https://eprint.iacr.org/2020/261)
   
+  
 – S. Tonni, F. Farokhi, D. Vatsalan, M.A. Kaafar, Z. Lu, G. Tangari. "Data and Model Dependencies of Membership Inference Attack." arXiv preprint [arXiv:2002.06856](https://arxiv.org/abs/2002.06856) (2020).
   
+  
 – Farokhi, Farhad, and Mohamed Ali Kaafar. "Modelling and Quantifying Membership Information Leakage in Machine Learning." arXiv [preprint arXiv:2001.10648](https://arxiv.org/abs/2001.10648) (2020).
+  
   
 – A. Shaghaghi, M.A. kaafar, R. Buyya, S. Jha. "Software-Defined Network (SDN) Data Plane Security: Issues, Solutions, and Future Directions." In Handbook of Computer Networks and Cyber Security, pp. 341-387. Springer, Cham, 2020.  
 
@@ -62,21 +71,28 @@ F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous D
 
 – B.Z. Zhao, H. Asghar, R. Bhaskar and M. A. Kaafar, “On Inferring Training Data Attributes in Machine Learning Models”, In the ACM Conference on Computer and Communications Security CCS workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1908.10558.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – Y. Miao, B. Z. Zhao, M. Xue, C. Chen, L. Pan, J. Zhang, M.A. Kaafar, Y. Xiang, “The Audio Auditor: Participant-Level Membership Inference in Internet of Things Voice Services”, In the ACM Conference on Computer and Communications Security CCS workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1905.07082.pdf)</span> <span style="background-color:#98FB98">
 
 
 – Q. Chen, C. Xiang, M. Xue, B. Li, N. Borisov, M.A. Kaafar and H. Zhu, “Differentially Private Data Sharing: Sharing Models versus Sharing Data”, In the ACM Conference on Computer and Communications Security (CCS) Workshop on Privacy Preserving Machine Learning (PPML), London, November 2019. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/12/Differentially-Private-Data-Sharing.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – H. J. Asghar, E. De Cristofaro, G. Jourjon, M.A. Kaafar, L. Mathy, L. Melis, C. Russell, and M. Yu, “Fast Privacy-Preserving Network Function Outsourcing”, Computer Networks, Vol. 163, 2019. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2020/04/splitbox19.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – M. Ikram, P. Beaume, and M. A. Kaafar, “DaDiDroid: An Obfuscation Resilient Tool for Detecting Android Malware via Behavior Modeling of Weighted Directed Call Graph”, Security and Cryptography (Secrypt), 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1905.09136.pdf)</span> <span style="background-color:#98FB98">
 
+  
 -S. S. Hashmi, M. Ikram, M.A. Kaafar, “A Longitudinal Analysis of Online Ad-Blocking Blacklists”, In IEEE The 44th IEEE Conference on Local Computer Networks (LCN 2019), Osnabrück, Germany, October 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1906.00166.pdf)</span> <span style="background-color:#98FB98">
 
+  
 –  B. Zhao, M. Ikram, H. Asghar, M. A. Kaafar, “A Decade of Mal-Activity Reporting: A Retrospective Analysis of Internet Malicious Activity Blacklists”, Asia Computer Communication and Security (ASIA-CCS), 2019. Best Paper Award   <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1904.10629.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – M. Ikram, R. Masood, G. Tyson, M. A. Kaafar, N. Loizon and R. Ensafi, “The Chain of Implicit Trust: An Analysis of the Web Third-party Resources Loading”, to be published in the Web Conference ACM WWW 2019, San Francisco May 2019. <span style="background-color:#FAEBD7">[pdf](https://arxiv.org/pdf/1901.07699.pdf)</span> <span style="background-color:#98FB98">
 
+  
 – V. Perrier, H. Asghar and M.A. Kaafar, “Private Continual Release of Real-Valued Data Streams”,  in NDSS 2019, San Diego, CA, February 2019. <span style="background-color:#FAEBD7">[pdf](https://research.csiro.au/ng/wp-content/uploads/sites/106/2019/03/1811.03197-2.pdf)</span> <span style="background-color:#98FB98">
 
 
