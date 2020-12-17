@@ -12,9 +12,7 @@ published: true
 I am hiring. 
 
 
-**Several Postdoc and PhD scholarship positions.**
-
-**Several Open Postdoc Positions**
+**Several Openings for Postdoc Positions and PhD scholarships.**
 
 If you are passionate about Cyber Security and Privacy and can demonstrate a prestigious research or Industry track record in any of the following, please reach out and apply (**Applications close: 03 January 2021**)
 
