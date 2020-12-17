@@ -19,3 +19,6 @@ Prior to joining Macquarie University, I was group leader (and founder) of the I
 
 
 **[I am Hiring! Several Postdocs and Phd Students.](https://dali-kaafar.github.io/positions/)**
+
+Apply by January 3rd, 2021
+https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security
