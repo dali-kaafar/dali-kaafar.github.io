@@ -29,7 +29,7 @@ If you are passionate about Cyber Security and Privacy and can demonstrate a pre
 
 
 
-** Master of Research and PhD scholarships **
+**Master of Research and PhD scholarships**
 
 I am always looking for highly motivated and skilled MRes and PhD candidates. 
 
