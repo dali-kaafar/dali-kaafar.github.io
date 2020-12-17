@@ -25,7 +25,7 @@ If you are passionate about Cyber Security and Privacy and can demonstrate a pre
 - Information Security and Cryptography
 - Internet privacy and security analytics
 
-https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security
+[Postdoc Position in Cyber Security](https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security) [https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security](https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security)
 
 
 
