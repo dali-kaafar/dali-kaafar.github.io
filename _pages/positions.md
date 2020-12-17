@@ -9,11 +9,14 @@ published: true
 {% include base_path %}
 
 
-I am hiring. **Several Postdoc and PhD scholarship positions.**
+I am hiring. 
+
+
+**Several Postdoc and PhD scholarship positions.**
 
 **Several Open Postdoc Positions**
 
-If you are passionate about S&P and/or ML/AI and data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply (**Applications close: 06 Sep 2020 AUS Eastern Standard Time**)
+If you are passionate about Cyber Security and Privacy and can demonstrate a prestigious research or Industry track record in any of the following, please reach out and apply (**Applications close: 03 January 2021**)
 
 - Trustworthy Machine Learning, Fairness and Accountability  
 - Privacy and Security in Machine Learning
@@ -22,25 +25,19 @@ If you are passionate about S&P and/or ML/AI and data Analytics and can demonstr
 - Information Security and Cryptography
 - Internet privacy and security analytics
 
-Send me your CV if you think have expertise in any of the above and apply here:
-
-[https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow](https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow)
-
-[https://jobs.mq.edu.au/en/job/507903/postdoc-research-fellow-cyber-security-research](https://jobs.mq.edu.au/en/job/507903/postdoc-research-fellow-cyber-security-research)
-
-[https://jobs.mq.edu.au/en/job/507902/postdoc-research-fellow-data-privacy-in-ai-platforms-dpaip](https://jobs.mq.edu.au/en/job/507902/postdoc-research-fellow-data-privacy-in-ai-platforms-dpaip)
+https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security
 
 
 
-**International PhD scholarship **
+** Master of Research and PhD scholarships **
 
-For International Candidates: Interested in a PhD in Internet privacy and security analytics or Machine learning security and privacy analysis, apply for the following Scholarship (**Closing Date
-30 Nov 2020 12am AEDT**)
+I am always looking for highly motivated and skilled MRes and PhD candidates. 
 
-[https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics)
+While you may come across some of the scholarships we do open for applications, in which case you may want to apply directly through the [Macquarie University High Degree Research Program](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/business/study-with-us/higher-degree-research-hdr), please feel always free to reach out directly by sending me a CV and a research proposal.
+You can have a sense of my current research interests by skimming through my [Publications](https://dali-kaafar.github.io/publications/) page or [my Google Scholar Profile](https://scholar.google.com.au/citations?hl=en&user=9DR87DQAAAAJ&view_op=list_works&sortby=pubdate). 
 
 
-#scholarships #cybersecuritythreats #OMQCSH #machinelearning #AI
+#scholarships #cybersecuritythreats #OMQCSH #Privacy #machinelearning #AI #mobilesecurity #malware
 
 
 **Open Domestic PhD Scholarship Positions**
