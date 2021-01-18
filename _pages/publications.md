@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2021**
 
-– F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", accepted in IEEE Transactions of Information Forensics and Security (IEEE T-IFS). To be published in 2021. [Authors Draft version.](https://arxiv.org/abs/2003.08500)
+– F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", In IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**). Pages, 1-12, ISSN: 1556-6013, Online ISSN: 1556-6021, Digital Object Identifier: 10.1109/TIFS.2021.3050603 2021. [Authors Draft version.](https://arxiv.org/abs/2003.08500)
 
 – Y. Miao, M. Xue, C. Chen, L. Pan, J. Zhang, B. Zhao, M.A. Kaafar and Y. Xiang "The Audio Auditor: User-Level Membership Inference in Internet of Things Voice Services", in Privacy Preserving Technologies Symposium (PETS 2021). [Authors version.](https://arxiv.org/abs/1905.07082)
 
