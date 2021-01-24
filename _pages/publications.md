@@ -53,9 +53,6 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 – M. Yousefi-Azar, M.A. Kaafar, A. Walker. "Unsupervised Learning for security of Enterprise networks by micro-segmentation." [arXiv preprint arXiv:2003.11231](https://arxiv.org/pdf/2003.11231.pdf)(2020).
   
   
-– F. Farokhi, N. Wu, D. Smith, M.A. Kaafar. "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", arXiv preprint [arXiv:2003.08500](https://arxiv.org/abs/2003.08500) (2020).
-  
-  
 – M. Monteiro , K. Kumara, H. Asghar, K. Thilakarathna, T. Rakotoarivelo, M.A. Kaafar, S. Li, R. Steinfeld, J. Pieprzyk. "Foxtail+: A Learning with Errors-based Authentication Protocol for Resource-Constrained Devices." IACR Cryptol. ePrint Arch. 2020 (2020): 261. [pdf](https://eprint.iacr.org/2020/261)
   
   
@@ -65,7 +62,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 – Farokhi, Farhad, and Mohamed Ali Kaafar. "Modelling and Quantifying Membership Information Leakage in Machine Learning." arXiv [preprint arXiv:2001.10648](https://arxiv.org/abs/2001.10648) (2020).
   
   
-– A. Shaghaghi, M.A. kaafar, R. Buyya, S. Jha. "Software-Defined Network (SDN) Data Plane Security: Issues, Solutions, and Future Directions." In Handbook of Computer Networks and Cyber Security, pp. 341-387. Springer, Cham, 2020.  
+– A. Shaghaghi, M.A. kaafar, R. Buyya, S. Jha. "Software-Defined Network (SDN) Data Plane Security: Issues, Solutions, and Future Directions." [In Handbook of Computer Networks and Cyber Security, pp. 341-387. Springer, Cham, 2020](https://link.springer.com/chapter/10.1007/978-3-030-22277-2_14).  
 
 
 **2019**
