@@ -15,9 +15,9 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2021**
 
+- Gi. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "[Mobile health and privacy: cross sectional study](https://www.bmj.com/content/373/bmj.n1248 "Mobile health and privacy: cross sectional study  BMJ 2021")", In the British Medical Journal (theBMJ), Published 17 June 2021.
 
-
-– B. Zhao, A. Agrawal, C. Coburn, H. Asghar, R. Bhaskar, M.A. Kaafar, D. Webb, P. Dickinson "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models", Accepted in IEEE European Symposium on Security and Privacy 2021. [Authors Version.](https://arxiv.org/pdf/2103.07101.pdf "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models")
+– B. Zhao, A. Agrawal, C. Coburn, H. Asghar, R. Bhaskar, M.A. Kaafar, D. Webb, P. Dickinson "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models", In IEEE European Symposium on Security and Privacy 2021. [Authors Version.](https://arxiv.org/pdf/2103.07101.pdf "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models")
 
 – Y. Chen, H. Wang, KKR. Choo, P. He, Z. Salcic, M.A. Kaafar, X. Zhang, "DDCA: A Distortion Drift-Based Cost Assignment Method for Adaptive Video Steganography in the Transform Domain", in IEEE Transactions on Dependable and Secure Computing, 2021.
 
