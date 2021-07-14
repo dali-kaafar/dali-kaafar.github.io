@@ -15,15 +15,15 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2021**
 
-– G. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "[Mobile health and privacy: cross sectional study](https://www.bmj.com/content/373/bmj.n1248 "Mobile health and privacy: cross sectional study  BMJ 2021")", In the British Medical Journal (theBMJ), Published 17 June 2021.
+– G. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "[Mobile health and privacy: cross sectional study](https://www.bmj.com/content/373/bmj.n1248 "Mobile health and privacy: cross sectional study  BMJ 2021")", In the British Medical Journal (**theBMJ**), Published 17 June 2021.
 
-– B. Zhao, A. Agrawal, C. Coburn, H. Asghar, R. Bhaskar, M.A. Kaafar, D. Webb, P. Dickinson "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models", In IEEE European Symposium on Security and Privacy 2021. [Authors Version.](https://arxiv.org/pdf/2103.07101.pdf "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models")
+– B. Zhao, A. Agrawal, C. Coburn, H. Asghar, R. Bhaskar, M.A. Kaafar, D. Webb, P. Dickinson "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models", In IEEE European Symposium on Security and Privacy (**EuroS&P**) 2021. [Authors Version.](https://arxiv.org/pdf/2103.07101.pdf "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models")
 
 – Y. Chen, H. Wang, KKR. Choo, P. He, Z. Salcic, M.A. Kaafar, X. Zhang, "DDCA: A Distortion Drift-Based Cost Assignment Method for Adaptive Video Steganography in the Transform Domain", in IEEE Transactions on Dependable and Secure Computing, 2021.
 
 – F. Farokhi, N. Wu, D. Smith, M.A. Kaafar, "The Cost of Privacy in Asynchronous Differentially-Private Machine Learning", In IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**). Pages, 1-12, ISSN: 1556-6013, Online ISSN: 1556-6021, Digital Object Identifier: 10.1109/TIFS.2021.3050603 2021. [Authors Draft version.](https://arxiv.org/abs/2003.08500)
 
-– Y. Miao, M. Xue, C. Chen, L. Pan, J. Zhang, B. Zhao, M.A. Kaafar and Y. Xiang "The Audio Auditor: User-Level Membership Inference in Internet of Things Voice Services", in Privacy Preserving Technologies Symposium (PETS 2021). [Authors version.](https://arxiv.org/abs/1905.07082)
+– Y. Miao, M. Xue, C. Chen, L. Pan, J. Zhang, B. Zhao, M.A. Kaafar and Y. Xiang "The Audio Auditor: User-Level Membership Inference in Internet of Things Voice Services", in Privacy Preserving Technologies Symposium (**PETS 2021**). [Authors version.](https://arxiv.org/abs/1905.07082)
 
 **2020**
 
