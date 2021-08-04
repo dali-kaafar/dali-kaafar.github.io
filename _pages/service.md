@@ -8,7 +8,7 @@ published: true
 
 {% include base_path %}
 
-General Chair for [**Privacy Enhancing Technologies Symposium (PETS) 2021**](https://www.petsymposium.org/cfp21.php) that will be held in Sydney in July 2021.
+General Chair for [**Privacy Enhancing Technologies Symposium (PETS) 2022**](https://www.petsymposium.org/cfp22.php) that will be held in Sydney in July 2022.
 
 General Co-Chair of [(Cyber Defence Next Generation Technology & science Conference) **CDNG 2020**](https://wp.csiro.au/cdng/)
 
