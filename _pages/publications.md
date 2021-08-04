@@ -17,7 +17,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 – G. Tangari, M. Ikram, B, Sentana,K. Ijaz, M. A. Kaafar, S. Berkovsky, "[Analyzing security issues of android mobile health and medical applications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab131/6335525?guestAccessKey=cef25a1d-4e4d-4223-b492-97b04fbc5ba9 "JAMIA 2021 Analyzing security issues of android mobile health and medical applications")" Published in the Journal of the American Medical Informatics Association (**JAMIA**), Published August 3, 2021.
 
-- N. U. Sheikh, H. Asghar, F. Farokhi, M.A. Kaafar, "Do Auto-regressive Models Protect Privacy Inferring Fine-grained Energy Consumption from Aggregated Model Parameters", Published in the [IEEE Transactions on Services Computing (2021)](https://ieeexplore.ieee.org/document/9497695 "Privacy of Energy Aggregator Models") (**IEEE TSC**), July 2021.
+- N. U. Sheikh, H. Asghar, F. Farokhi, M.A. Kaafar, "Do Auto-regressive Models Protect Privacy?> Inferring Fine-grained Energy Consumption from Aggregated Model Parameters", Published in the [IEEE Transactions on Services Computing (2021)](https://ieeexplore.ieee.org/document/9497695 "Privacy of Energy Aggregator Models") (**IEEE TSC**), July 2021.
 
 
 – G. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "[Mobile health and privacy: cross sectional study](https://www.bmj.com/content/373/bmj.n1248 "Mobile health and privacy: cross sectional study  BMJ 2021")", In the British Medical Journal (**theBMJ**), Published 17 June 2021.
