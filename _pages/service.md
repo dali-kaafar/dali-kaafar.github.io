@@ -8,11 +8,14 @@ published: true
 
 {% include base_path %}
 
-General Chair for [**Privacy Enhancing Technologies Symposium (PETS) 2022**](https://www.petsymposium.org/cfp22.php) that will be held in Sydney in July 2022.
+General Chair for [**Privacy Enhancing Technologies Symposium (PETS) 2022**]
+(https://www.petsymposium.org/cfp22.php) that will be held in Sydney in July 2022.
+
+Associate Editor of [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206 "IEEE T-IFS")
 
 General Co-Chair of [(Cyber Defence Next Generation Technology & science Conference) **CDNG 2020**](https://wp.csiro.au/cdng/)
 
-Member of the [Caspar Bowden Award Committee for Outstanding Research in Privacy Enhancing Technologies 2019 2020](https://petsymposium.org/award/cfn.php)
+Member of the [Caspar Bowden Award Committee for Outstanding Research in Privacy Enhancing Technologies 2019, 2020, 2021](https://petsymposium.org/award/cfn.php)
 
 Associate Editor of [ACM Transactions on Modeling and Performance Evaluation of Computing Systems (**ACM ToMPECS**)](https://dl.acm.org/journal/tompecs)
 
