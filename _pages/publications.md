@@ -15,6 +15,8 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2021**
 
+– G. Tangari, M. Ikram, B, Sentana,K. Ijaz, M. A. Kaafar, S. Berkovsky, "[Analyzing security issues of android mobile health and medical applications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab131/6335525?guestAccessKey=cef25a1d-4e4d-4223-b492-97b04fbc5ba9 "JAMIA 2021 Analyzing security issues of android mobile health and medical applications")" Published in the Journal of the American Medical Informatics Association (**JAMIA**), Published August 3, 2021.
+
 – G. Tangari, M. Ikram, K. Ijaz, M.A. Kaafar, S. Berkovsky, "[Mobile health and privacy: cross sectional study](https://www.bmj.com/content/373/bmj.n1248 "Mobile health and privacy: cross sectional study  BMJ 2021")", In the British Medical Journal (**theBMJ**), Published 17 June 2021.
 
 – B. Zhao, A. Agrawal, C. Coburn, H. Asghar, R. Bhaskar, M.A. Kaafar, D. Webb, P. Dickinson "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models", In IEEE European Symposium on Security and Privacy (**EuroS&P**) 2021. [Authors Version.](https://arxiv.org/pdf/2103.07101.pdf "On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models")
