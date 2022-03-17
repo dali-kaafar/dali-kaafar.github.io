@@ -11,7 +11,7 @@ published: true
 
 I am (Full) Professor at the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering), [MQ Computing Department](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering/departments-and-centres/department-of-computing) at Macquarie University, Sydney, Australia.
 
-I am the Executive Director of [The Optus Macquarie University Cyber Security Hub](https://www.mq.edu.au/about/about-the-university/offices-and-units/optus-macquarie-university-cyber-security-hub) and director of the Data Security and Privacy R&D Program.
+I am the Executive Director of [The Macquarie University Cyber Security Hub](https://www.mq.edu.au/partner/access-business-opportunities/innovation-entrepreneurship-and-it/cyber-security-hub) and director of the Data Security and Privacy R&D Program.
 
 With [a team of collaborators](https://dali-kaafar.github.io/collaborations/) I am interested in the broad R&D activities in Cyber Security in Emerging Technologies with a vision to enable Explicit Trust in the Digital Economy. My primary research interests are Data Security and Privacy, with a focus on Privacy-Preserving (or Enhancing) technologies and Information Security for Web and Mobile applications, (Provably) private date sharing and Trustworthy Secure and Private Machine learning techniques.
 
