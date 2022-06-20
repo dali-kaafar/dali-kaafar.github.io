@@ -13,6 +13,18 @@ Here I list some selected peer-reviewed publications of mine.
 For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com.au/citations?user=9DR87DQAAAAJ&hl=en&oi=ao) page.
 
 
+**2022**
+
+– M. Kepkowski, L. Hanzlik, I. Wood, M. A. Kaafar, "[How Not to Handle Keys: Timing Attacks on FIDO Authenticator Privacy](https://arxiv.org/pdf/2205.08071)", In Privacy Preserving Technologies Symposium (**PETS 2022**), Sydney, 2022.
+
+
+-Z. Lu, H. J. Asghar, M. A. Kaafar, D. Webb, P. Dickinson, "[A Differentially Private Framework for Deep Learning with Convexified Loss Functions](https://arxiv.org/pdf/2204.01049.pdf)", in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), April 2022, Page(s): 2151 - 2165, [DOI: 10.1109/TIFS.2022.3169911](https://ieeexplore.ieee.org/abstract/document/9762326).
+
+- N. Basta, M. Ikram, M.A. Kaafar, A. Walker, "[Towards a Zero-Trust Micro-segmentation Network Security Strategy: An Evaluation Framework](https://arxiv.org/pdf/2111.10967.pdf)", in IEEE/IFIP Network Operations and Management Symposium (NOMS 2022), Budapest, 2022.
+
+- R. Masood, S. Berkovsky, M.A. Kaafar, Book Chapter "[Tracking and Personalization](https://library.oapen.org/bitstream/handle/20.500.12657/52825/978-3-030-82786-1.pdf?sequence=1#page=174)", Modern Socio-Technical Perspectives on Privacy, Pages 171-202
+
+
 **2021**
 
 – G. Tangari, M. Ikram, B, Sentana,K. Ijaz, M. A. Kaafar, S. Berkovsky, "[Analyzing security issues of android mobile health and medical applications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab131/6335525?guestAccessKey=cef25a1d-4e4d-4223-b492-97b04fbc5ba9 "JAMIA 2021 Analyzing security issues of android mobile health and medical applications")" Published in the Journal of the American Medical Informatics Association (**JAMIA**), Published August 3, 2021.
