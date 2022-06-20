@@ -18,7 +18,8 @@ With [a team of collaborators](https://dali-kaafar.github.io/collaborations/) I 
 Prior to joining Macquarie University, I was group leader (and founder) of the Information Security and Privacy group at CSIRO Data61, a principal researcher at National ICT Australia (NICTA) and a permament researcher at the Privatics team at INRIA in France.
 
 
-**[I am Hiring! Several Postdocs and Phd Students.](https://dali-kaafar.github.io/positions/)**
+**[I am always looking to hire highly motivated and outstanding PhDs for postdoctoral fellows positions and undergraduates students for Phd/MRes scholarships.]
 
-Apply by January 3rd, 2021
-https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security
+We very often have open positions and scholarships available, even though sometimes backlogged for advertisements, so do not hesitate to reach out.
+
+
