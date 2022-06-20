@@ -18,11 +18,11 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 – M. Kepkowski, L. Hanzlik, I. Wood, M. A. Kaafar, "[How Not to Handle Keys: Timing Attacks on FIDO Authenticator Privacy](https://arxiv.org/pdf/2205.08071)", In Privacy Preserving Technologies Symposium (**PETS 2022**), Sydney, 2022.
 
 
--Z. Lu, H. J. Asghar, M. A. Kaafar, D. Webb, P. Dickinson, "[A Differentially Private Framework for Deep Learning with Convexified Loss Functions](https://arxiv.org/pdf/2204.01049.pdf)", in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), April 2022, Page(s): 2151 - 2165, [DOI: 10.1109/TIFS.2022.3169911](https://ieeexplore.ieee.org/abstract/document/9762326).
+– Z. Lu, H. J. Asghar, M. A. Kaafar, D. Webb, P. Dickinson, "[A Differentially Private Framework for Deep Learning with Convexified Loss Functions](https://arxiv.org/pdf/2204.01049.pdf)", in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), April 2022, Page(s): 2151 - 2165, [DOI: 10.1109/TIFS.2022.3169911](https://ieeexplore.ieee.org/abstract/document/9762326).
 
-- N. Basta, M. Ikram, M.A. Kaafar, A. Walker, "[Towards a Zero-Trust Micro-segmentation Network Security Strategy: An Evaluation Framework](https://arxiv.org/pdf/2111.10967.pdf)", in IEEE/IFIP Network Operations and Management Symposium (NOMS 2022), Budapest, 2022.
+– N. Basta, M. Ikram, M.A. Kaafar, A. Walker, "[Towards a Zero-Trust Micro-segmentation Network Security Strategy: An Evaluation Framework](https://arxiv.org/pdf/2111.10967.pdf)", in IEEE/IFIP Network Operations and Management Symposium (NOMS 2022), Budapest, 2022.
 
-- R. Masood, S. Berkovsky, M.A. Kaafar, Book Chapter "[Tracking and Personalization](https://library.oapen.org/bitstream/handle/20.500.12657/52825/978-3-030-82786-1.pdf?sequence=1#page=174)", Modern Socio-Technical Perspectives on Privacy, Pages 171-202
+– R. Masood, S. Berkovsky, M.A. Kaafar, Book Chapter "[Tracking and Personalization](https://library.oapen.org/bitstream/handle/20.500.12657/52825/978-3-030-82786-1.pdf?sequence=1#page=174)", Modern Socio-Technical Perspectives on Privacy, Pages 171-202
 
 
 **2021**
