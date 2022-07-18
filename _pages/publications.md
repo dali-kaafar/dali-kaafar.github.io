@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2022**
 
-– N. Wu, D. Vatsalan, S. Verma, M. A. Kaafar, "[Fairness and Cost Constrained Privacy-Aware Record Linkage](https://arxiv.org/pdf/2206.15089.pdf)", Published in IEEE Transactions on Information Forensics and Security, July 2022, [[DOI: 10.1109/TIFS.2022.3191492](https://ieeexplore.ieee.org/document/9830768)] 
+– N. Wu, D. Vatsalan, S. Verma, M. A. Kaafar, "[Fairness and Cost Constrained Privacy-Aware Record Linkage](https://arxiv.org/pdf/2206.15089.pdf)", Published in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), July 2022, [[DOI: 10.1109/TIFS.2022.3191492](https://ieeexplore.ieee.org/document/9830768)] 
 
 
 – M. Kepkowski, L. Hanzlik, I. Wood, M. A. Kaafar, "[How Not to Handle Keys: Timing Attacks on FIDO Authenticator Privacy](https://arxiv.org/pdf/2205.08071)", In Privacy Preserving Technologies Symposium (**PETS 2022**), Sydney, 2022.
