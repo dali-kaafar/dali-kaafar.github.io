@@ -45,6 +45,8 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 – M. Dehez-Clementi; J. Lacan; J-C. Deneuville, H. Asghar, M.A. Kaafar, "[A Blockchain-enabled Anonymous-yet-Traceable Distributed Key Generation](https://ieeexplore.ieee.org/abstract/document/9680537)", in IEEE International Conference on Blockchain (Blockchain), 2021.
 
+– R. Masood, S. Berkovsky, M.A. Kaafar, "[Tracking and Personalization](https://library.oapen.org/bitstream/handle/20.500.12657/52825/978-3-030-82786-1.pdf?sequence=1#page=174)", Book Chapter in "Modern Socio-Technical Perspectives on Privacy", pages 171-202, Springer International Publishing.
+
 – G. Tangari, M. Ikram, B, Sentana,K. Ijaz, M. A. Kaafar, S. Berkovsky, "[Analyzing security issues of android mobile health and medical applications](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab131/6335525?guestAccessKey=cef25a1d-4e4d-4223-b492-97b04fbc5ba9 "JAMIA 2021 Analyzing security issues of android mobile health and medical applications")" Published in the Journal of the American Medical Informatics Association (**JAMIA**), Published August 3, 2021.
 
 – N. U. Sheikh, H. Asghar, F. Farokhi, M.A. Kaafar, "Do Auto-regressive Models Protect Privacy?> Inferring Fine-grained Energy Consumption from Aggregated Model Parameters", Published in the [IEEE Transactions on Services Computing (2021)](https://ieeexplore.ieee.org/document/9497695 "Privacy of Energy Aggregator Models") (**IEEE TSC**), July 2021.
