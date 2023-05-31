@@ -17,8 +17,6 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 - W. Yeoh, M. Kepkowski, G. Heide, M.A. Kaafar, L. Hanzlik, "[Fast IDentity Online with Anonymous Credentials (FIDO-AC)](https://arxiv.org/abs/2305.16758)", in the 32nd USENIX Security Symposium (**USENIX Security 2023**), ANAHEIM, CA, August 2023.
 
-
-
 - R.S. Ali, B. Zhao, H. Asghar, T. Nguyen, I. Wood, M.A. Kaafar, "[Unintended Memorization and Timing Attacks in Named Entity Recognition Models](https://arxiv.org/abs/2211.02245)", in Proceedings on Privacy Enhancing Technologies (**PETs 2023**), Lausanne, Switzerland, July 2023.
 
 - N. Wu, D.Vatsalan, M.A. Kaafar, S. Ramesh, "[Privacy-Preserving Record Linkage for Cardinality Counting](https://arxiv.org/abs/2301.04000)", in the 18th ACM ASIA Conference on Computer and Communications Security (**ACM ASIACCS** 2023), Melbourne, July 2023.
