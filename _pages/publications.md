@@ -13,7 +13,13 @@ Here I list some selected peer-reviewed publications of mine.
 For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com.au/citations?user=9DR87DQAAAAJ&hl=en&oi=ao) page.
 
 
+**2023**
+
+- R.S. Ali, B. Zhao, H. Asghar, T. Nguyen, I. Wood, M.A. Kaafar, "[Unintended Memorization and Timing Attacks in Named Entity Recognition Models](https://arxiv.org/abs/2211.02245)", in Proceedings on Privacy Enhancing Technologies (**PETs 2023**), Lausanne, Switzerland, July 2023.
+
 **2022**
+
+- H. Xiong, S. Berkovsky, M.A. Kaafar, A. Jaffe, E. Coiera, R.V. Sharan, "[Reliability of crowdsourced data and patient-reported outcome measures in cough-based COVID-19 screening](https://pubmed.ncbi.nlm.nih.gov/36539519/#:~:text=Crowd%2Dsourced%20cough%20data%20is,gold%2Dstandard%20data%20are%20available.)", in Scientific Reports, Nature Publishing Group UK 12 (1), 21990
 
 – N. Wu, D. Vatsalan, S. Verma, M. A. Kaafar, "[Fairness and Cost Constrained Privacy-Aware Record Linkage](https://arxiv.org/pdf/2206.15089.pdf)", Published in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**) , July 2022, [[DOI: 10.1109/TIFS.2022.3191492](https://ieeexplore.ieee.org/document/9830768)] 
 
