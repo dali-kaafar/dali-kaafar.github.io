@@ -15,18 +15,18 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2023**
 
-- W. Yeoh, M. Kepkowski, G. Heide, M.A. Kaafar, L. Hanzlik, "[Fast IDentity Online with Anonymous Credentials (FIDO-AC)](https://arxiv.org/abs/2305.16758)", in the 32nd USENIX Security Symposium (**USENIX Security 2023**), ANAHEIM, CA, August 2023.
+– W. Yeoh, M. Kepkowski, G. Heide, M.A. Kaafar, L. Hanzlik, "[Fast IDentity Online with Anonymous Credentials (FIDO-AC)](https://arxiv.org/abs/2305.16758)", in the 32nd USENIX Security Symposium (**USENIX Security 2023**), ANAHEIM, CA, August 2023.
 
-- R.S. Ali, B. Zhao, H. Asghar, T. Nguyen, I. Wood, M.A. Kaafar, "[Unintended Memorization and Timing Attacks in Named Entity Recognition Models](https://arxiv.org/abs/2211.02245)", in Proceedings on Privacy Enhancing Technologies (**PETs 2023**), Lausanne, Switzerland, July 2023.
+– R.S. Ali, B. Zhao, H. Asghar, T. Nguyen, I. Wood, M.A. Kaafar, "[Unintended Memorization and Timing Attacks in Named Entity Recognition Models](https://arxiv.org/abs/2211.02245)", in Proceedings on Privacy Enhancing Technologies (**PETs 2023**), Lausanne, Switzerland, July 2023.
 
-- N. Wu, D.Vatsalan, M.A. Kaafar, S. Ramesh, "[Privacy-Preserving Record Linkage for Cardinality Counting](https://arxiv.org/abs/2301.04000)", in the 18th ACM ASIA Conference on Computer and Communications Security (**ACM ASIACCS** 2023), Melbourne, July 2023.
+– N. Wu, D.Vatsalan, M.A. Kaafar, S. Ramesh, "[Privacy-Preserving Record Linkage for Cardinality Counting](https://arxiv.org/abs/2301.04000)", in the 18th ACM ASIA Conference on Computer and Communications Security (**ACM ASIACCS** 2023), Melbourne, July 2023.
 
-- B Tag, N. Berkel, S. Verma, B. Zhao, S. Berkovsky, M.A. Kaafar, V. Kostakos, O. Ohrimenko,  "[DDoD: Dual Denial of Decision Attacks on Human-AI Teams](https://arxiv.org/abs/2212.03980)", in IEEE Pervasive Computing, IEEE Special Issue on Human-Centered AI, Volume: 22, Issue: 1, 01 Jan.-March 2023.
+– B Tag, N. Berkel, S. Verma, B. Zhao, S. Berkovsky, M.A. Kaafar, V. Kostakos, O. Ohrimenko,  "[DDoD: Dual Denial of Decision Attacks on Human-AI Teams](https://arxiv.org/abs/2212.03980)", in IEEE Pervasive Computing, IEEE Special Issue on Human-Centered AI, Volume: 22, Issue: 1, 01 Jan.-March 2023.
 
 **2022**
 
 
-- H. Xiong, S. Berkovsky, M.A. Kaafar, A. Jaffe, E. Coiera, R.V. Sharan, "[Reliability of crowdsourced data and patient-reported outcome measures in cough-based COVID-19 screening](https://pubmed.ncbi.nlm.nih.gov/36539519/#:~:text=Crowd%2Dsourced%20cough%20data%20is,gold%2Dstandard%20data%20are%20available.)", in Scientific Reports, Nature Publishing Group UK 12 (1), 21990.
+– H. Xiong, S. Berkovsky, M.A. Kaafar, A. Jaffe, E. Coiera, R.V. Sharan, "[Reliability of crowdsourced data and patient-reported outcome measures in cough-based COVID-19 screening](https://pubmed.ncbi.nlm.nih.gov/36539519/#:~:text=Crowd%2Dsourced%20cough%20data%20is,gold%2Dstandard%20data%20are%20available.)", in Scientific Reports, Nature Publishing Group UK 12 (1), 21990.
 
 – N. Wu, D. Vatsalan, S. Verma, M. A. Kaafar, "[Fairness and Cost Constrained Privacy-Aware Record Linkage](https://arxiv.org/pdf/2206.15089.pdf)", Published in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**) , July 2022, [[DOI: 10.1109/TIFS.2022.3191492](https://ieeexplore.ieee.org/document/9830768)] 
 
