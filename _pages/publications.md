@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2023**
 
-– M Kepkowski, M Machulak, I Wood, D Kaafar, "[Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/abs/2308.08096)", in IEEE Secure Development Conference 2023 ([IEEE SecDev](https://secdev.ieee.org/2023/home)), Atlanta, GA, October 2023.
+– M Kepkowski, M Machulak, I Wood, M.A. Kaafar, "[Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/abs/2308.08096)", in IEEE Secure Development Conference 2023 ([IEEE SecDev](https://secdev.ieee.org/2023/home)), Atlanta, GA, October 2023.
 
 
 – W. Yeoh, M. Kepkowski, G. Heide, M.A. Kaafar, L. Hanzlik, "[Fast IDentity Online with Anonymous Credentials (FIDO-AC)](https://arxiv.org/abs/2305.16758)", in the 32nd USENIX Security Symposium (**USENIX Security 2023**), ANAHEIM, CA, August 2023.
@@ -23,6 +23,8 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 – R.S. Ali, B. Zhao, H. Asghar, T. Nguyen, I. Wood, M.A. Kaafar, "[Unintended Memorization and Timing Attacks in Named Entity Recognition Models](https://arxiv.org/abs/2211.02245)", in Proceedings on Privacy Enhancing Technologies (**PETS 2023**), Lausanne, Switzerland, July 2023.
 
 – N. Wu, D.Vatsalan, M.A. Kaafar, S. Ramesh, "[Privacy-Preserving Record Linkage for Cardinality Counting](https://arxiv.org/abs/2301.04000)", in the 18th ACM ASIA Conference on Computer and Communications Security (**ACM ASIACCS** 2023), Melbourne, July 2023.
+
+– H. Qayyum, B. Zhao, I. Wood, M. Ikram, M. A. Kaafar, N. Kourtellis, "[A longitudinal study of the top 1% toxic Twitter profiles](https://arxiv.org/abs/2303.14603)", In[Proceedings of the 15th ACM Web Science Conference 2023](https://websci23.webscience.org), Austin, Texas, May 2023.
 
 – B Tag, N. Berkel, S. Verma, B. Zhao, S. Berkovsky, M.A. Kaafar, V. Kostakos, O. Ohrimenko,  "[DDoD: Dual Denial of Decision Attacks on Human-AI Teams](https://arxiv.org/abs/2212.03980)", in IEEE Pervasive Computing, IEEE Special Issue on Human-Centered AI, Volume: 22, Issue: 1, 01 Jan.-March 2023.
 
