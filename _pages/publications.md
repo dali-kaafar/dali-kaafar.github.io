@@ -15,6 +15,9 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2023**
 
+– M Kepkowski, M Machulak, I Wood, D Kaafar, "[Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/abs/2308.08096)", in IEEE Secure Development Conference 2023 ([IEEE SecDev](https://secdev.ieee.org/2023/home)), Atlanta, GA, October 2023.
+
+
 – W. Yeoh, M. Kepkowski, G. Heide, M.A. Kaafar, L. Hanzlik, "[Fast IDentity Online with Anonymous Credentials (FIDO-AC)](https://arxiv.org/abs/2305.16758)", in the 32nd USENIX Security Symposium (**USENIX Security 2023**), ANAHEIM, CA, August 2023.
 
 – R.S. Ali, B. Zhao, H. Asghar, T. Nguyen, I. Wood, M.A. Kaafar, "[Unintended Memorization and Timing Attacks in Named Entity Recognition Models](https://arxiv.org/abs/2211.02245)", in Proceedings on Privacy Enhancing Technologies (**PETS 2023**), Lausanne, Switzerland, July 2023.
