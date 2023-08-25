@@ -14,14 +14,16 @@ I am hiring.
 
 **Several Openings for Postdoc Positions and PhD scholarships.**
 
-If you are passionate about Cyber Security and Privacy and can demonstrate a prestigious research or Industry track record in any of the following, please reach out and apply (**Applications close: 03 January 2021**)
+If you are passionate about S&P and/or ML/AI, Cyber threat intelligence, Anti Scam Technologies, data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply:
 
-- Trustworthy Machine Learning, Fairness and Accountability  
+- Trustworthy Machine Learning, Fairness and Accountability
+- Anti Scam threat intelligence and technologies
 - Privacy and Security in Machine Learning
-- Ethics and Law of ML
-- Health Analytics
-- Information Security and Cryptography
+- Legal and Ethics of ML
+- Security and Privacy of OMICS
+- Information Security and Applied Cryptography
 - Internet privacy and security analytics
+- Web and Mobile Security 
 
 [Postdoc Position in Cyber Security](https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security) [https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security](https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security)
 
