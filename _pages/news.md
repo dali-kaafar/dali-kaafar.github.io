@@ -8,10 +8,28 @@ published: true
 
 {% include base_path %}
 
-
-**Open Postdoc Positions** 
+ Please reach out if you believe you are the right candidate to join us.
+ 
+ 
+ **Open Postdoc Positions** 
 
 The Information Security and Privacy ISP Group at Macquarie University and The Macquarie University Cyber Security Hub is hiring two postdoctoral research fellows in Security and Privacy.
+ 
+** August 2023: Several open POSTDOCTORAL Research positions** IN INFORMATION SECURITY AND PRIVACY
+
+If you are passionate about S&P and/or ML/AI, Cyber threat intelligence, Anti Scam Technologies, data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply.
+
+-Trustworthy Machine Learning, Fairness and Accountability
+-Privacy and Security in Machine Learning
+-Legal and Ethics of ML
+-Security and Privacy of OMICS
+-Information Security and Applied Cryptography
+-Internet privacy and security analytics
+- Web and Mobile Security 
+- Anti Scam threat intelligence and technologies
+
+
+
 
 Past openings include: 
 
@@ -62,7 +80,7 @@ Drop me an email at (Dali.kaafar\@\@\@mq.edu.au)  with Subject line “Request f
 Start by taking a look at [This for information about Admission/Scholarship/Research Proposals, Timelines, etc…](https://research.csiro.au/ng/about-us/people/dali-kaafar/interested-pursuing-phd-cyber-security-privacy-sydney/) 
 
 
-**Recent Achievements:**
+**Recent Achievements (Quite outdated. Please take a look at the publications page):**
 
 
 - Our paper "On the Resilience of Biometric Authentication Systems against Random Inputs" has been accepted to <a href="https://www.ndss-symposium.org/ndss2020/" target="_blank" rel="noopener noreferrer">NDSS 2020</a>.
