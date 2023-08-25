@@ -11,7 +11,9 @@ published: true
 
 **Open Postdoc Positions** 
 
-The Information Security and Privacy ISP Group at Macquarie University and The Optus Macquarie University Cyber Security Hub is hiring three postdoctoral research fellows in Security and Privacy.
+The Information Security and Privacy ISP Group at Macquarie University and The Macquarie University Cyber Security Hub is hiring two postdoctoral research fellows in Security and Privacy.
+
+Past openings include: 
 
 [https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow](https://jobs.mq.edu.au/en/job/507960/postdoc-research-fellow)
 
@@ -23,7 +25,7 @@ The Information Security and Privacy ISP Group at Macquarie University and The O
 
 
 
-If you are passionate about S&P and/or ML/AI and data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply.
+If you are passionate about S&P and/or ML/AI, Cyber threat intelligence, Anti Scam Technologies, data Analytics and can demonstrate a prestigious research track record in any of the following, please reach out and apply.
 
 -Trustworthy Machine Learning, Fairness and Accountability
 -Privacy and Security in Machine Learning
@@ -31,7 +33,9 @@ If you are passionate about S&P and/or ML/AI and data Analytics and can demonstr
 -Security and Privacy of OMICS
 -Information Security and Applied Cryptography
 -Internet privacy and security analytics
--Web and Mobile Security 
+- Web and Mobile Security 
+- Anti Scam threat intelligence and technologies
+
 #cybersecurity #privacy #informationsecurity #postdocs #Research
 
 **Open Scholarship Positions:**
@@ -47,8 +51,9 @@ For International Students: Interested in a PhD in Internet privacy and security
 [https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics)
 
 
-#scholarships #cybersecuritythreats #OMQCSH #machinelearning #AI
+#scholarships #cybersecuritythreats #MQCSH #machinelearning #AI
 
+ Past scholarships openings inlude:
  
 –[MRes / PhD  Positions Openings and Scholarships](https://research.csiro.au/ng/about-us/people/dali-kaafar/interested-pursuing-phd-cyber-security-privacy-sydney/). Interested in Postgraduate Research in Cyber Security and Online Privacy under my supervision?
 
