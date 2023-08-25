@@ -25,6 +25,8 @@ If you are passionate about S&P and/or ML/AI, Cyber threat intelligence, Anti Sc
 - Internet privacy and security analytics
 - Web and Mobile Security 
 
+Past postdoc openings include: 
+
 [Postdoc Position in Cyber Security](https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security) [https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security](https://jobs.mq.edu.au/en/job/507960/postdoctoral-research-fellow-in-cyber-security)
 
 
@@ -37,7 +39,7 @@ While you may come across some of the scholarships we do open for applications, 
 You can have a sense of my current research interests by skimming through my [Publications](https://dali-kaafar.github.io/publications/) page or [my Google Scholar Profile](https://scholar.google.com.au/citations?hl=en&user=9DR87DQAAAAJ&view_op=list_works&sortby=pubdate). 
 
 
-#scholarships #cybersecuritythreats #OMQCSH #Privacy #machinelearning #AI #mobilesecurity #malware
+#scholarships #cybersecuritythreats #MQCSH #Privacy #machinelearning #AI #mobilesecurity #malware
 
 
 **Open Domestic PhD Scholarship Positions**
