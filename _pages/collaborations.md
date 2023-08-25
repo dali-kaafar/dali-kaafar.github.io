@@ -18,15 +18,15 @@ published: true
 **Current PhD Students**
 
 
-1. Hina Qayyum, Macquarie University. Topic: Statistical Analysis for ML/AI robustness against adversarial attacks
+1. Hina Qayyum, Macquarie University. Topic: Exposing misconduct on free online platforms: A study of mobile apps, web games and social networks.
 
-2. Michal Kepkowski
+2. Michal Kepkowski. Topic: Privacy enhancing technologies for identity and access management.
 
-3. Wayan Budi Santana 
+3. Wayan Budi Santana.
 
-4. Muhammad Salman
+4. Muhammad Salman.
 
-5. Piyumi Seneviratne
+5. Piyumi Seneviratne.
 
 
 **Past PhD Students**
