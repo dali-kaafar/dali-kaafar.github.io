@@ -63,8 +63,7 @@ Several Domestic PhD Scholarships available. Send me an email if you’re intere
 
 **International PhD scholarship **
 
-For International Students: Interested in a PhD in Internet privacy and security analytics or Machine learning security and privacy analysis, apply for the following Scholarship (Closing Date
-30 Nov 2020 12am AEDT)
+For International Students: Interested in a PhD in Internet privacy and security analytics or Machine learning security and privacy analysis, apply for the following Scholarship: 
 
 [https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/internet-privacy-and-security-analytics)
 
