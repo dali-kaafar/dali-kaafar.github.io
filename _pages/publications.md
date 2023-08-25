@@ -20,7 +20,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 – W. Yeoh, M. Kepkowski, G. Heide, M.A. Kaafar, L. Hanzlik, "[Fast IDentity Online with Anonymous Credentials (FIDO-AC)](https://arxiv.org/abs/2305.16758)", in the 32nd USENIX Security Symposium (**USENIX Security 2023**), Anaheim, CA, August 2023.
 
-– C. Atkins, B. Zhao, H. Asghar, I. Wood, M.A. Kaafar, "Those Aren’t Your Memories, They’re Somebody Else’s: Seeding Misinformation in Chat Bot Memories, In proceedings of the International Conference on Applied Cryptography and Network Security, 
+– C. Atkins, B. Zhao, H. Asghar, I. Wood, M.A. Kaafar, "[Those Aren’t Your Memories, They’re Somebody Else’s: Seeding Misinformation in Chat Bot Memories](https://arxiv.org/abs/2304.05371)", in proceedings of the International Conference on Applied Cryptography and Network Security (**ACNS 2023**), Kyoto, Japan, 2023. 
 
 – R.S. Ali, B. Zhao, H. Asghar, T. Nguyen, I. Wood, M.A. Kaafar, "[Unintended Memorization and Timing Attacks in Named Entity Recognition Models](https://arxiv.org/abs/2211.02245)", in Proceedings on Privacy Enhancing Technologies (**PETS 2023**), Lausanne, Switzerland, July 2023.
 
