@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-I am (Full) Professor at the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering), and Executive Director of [[The Macquarie University Cyber Security Hub](https://www.mq.edu.au/partner/cyberhub/ )], director of the Data Security and Privacy R&D Program and director of the [Cyber Range Training Centre (CRTC) and Cyber Security Curriculumof the Institute of Applied Technology-Digital](https://www.iat.nsw.edu.au/iat-digital). 
+I am (Full) Professor at the [Faculty of Science and Engineering](https://www.mq.edu.au/about/about-the-university/faculties-and-departments/faculty-of-science-and-engineering), and Executive Director of [[The Macquarie University Cyber Security Hub](https://www.mq.edu.au/partner/cyberhub/ )], director of the Data Security and Privacy R&D Program and director of the [Cyber Range Training Centre (CRTC) and Cyber Security Curriculum of the Institute of Applied Technology-Digital](https://www.iat.nsw.edu.au/iat-digital). 
 
 With [a team of collaborators](https://dali-kaafar.github.io/collaborations/) I am interested in the broad R&D activities in Cyber Security in Emerging Technologies with a vision to enable Explicit Trust in the Digital Economy. My primary research interests are Data Security and Privacy, with a focus on Privacy-Preserving (or Enhancing) technologies and Information Security for Web and Mobile applications, (Provably) private date sharing and Trustworthy Secure and Private Machine learning techniques.
 
