@@ -43,9 +43,9 @@ published: true
 
 - [[Rahat Masood](https://research.csiro.au/isp/about-us/students/rahat-masood/)], Data61-UNSW, Topic: Privacy for wearable devices.
 
-- [Ikram Muhammad], Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Lecturer: Optus Macquarie University Cyber Security Hub.
+- [Ikram Muhammad], Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Senior Lecturer: Optus Macquarie University Cyber Security Hub.
  
-- [Arash Shaghaghi], Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Securing Large Enterprise Networks.
+- [Arash Shaghaghi], Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Securing Large Enterprise Networks. Senior Lecturer UNSW.
  
 - [Zainab Abaid], Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Early detection of Malware.
  
