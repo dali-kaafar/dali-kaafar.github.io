@@ -14,24 +14,32 @@ published: true
 2. Dr. Ben Zhao
 3. Nardine Basta
 4. Dr. [Zhigang Lu](https://suluz.github.io)
+5. Robin Carpentier
+
 
 **Current PhD Students**
 
 
 1. Hina Qayyum, Macquarie University. Topic: Exposing misconduct on free online platforms: A study of mobile apps, web games and social networks.
 
-2. Michal Kepkowski. Topic: Privacy enhancing technologies for identity and access management.
+2. Muhammad Salman, Macquarie University
 
-3. Wayan Budi Santana.
+3. Piyumi Seneviratne, Macquarie University
 
-4. Muhammad Salman.
+4. Conor Atkins, Macquarie University
 
-5. Piyumi Seneviratne.
+5. Zeeshan Zulkifl, Macquarie University
+
+6. Shashie Dilhara Arachchige 
 
 
 **Past PhD Students**
 
-- Nan Wu, Macquarie University. Topic: Utility-Privacy Tradeoffs in Data analytics
+- Michal Kepkowski, Macquarie University. Thesis: Privacy enhancing technologies for identity and access management.
+
+- Wayan Budi Santana, Macquarie University. Thesis: Mobile systems security: An empirical study.
+
+- Nan Wu, Macquarie University. Topic: Privacy-Preserving Data Sharing with Machine Learning.
 
 - Nazim Uddin Sheikh, Macquarie University. Topic: Statistical Models For Privacy preserving Energy Data
  
@@ -56,4 +64,3 @@ published: true
 - Minh-Dung Tran, Inria, Graduated in November 2013. Topic: Privacy challenges in Online Targeted Advertising. Currently leading system Architect at Probayes.
  
 - Dong Wong, Inria/ICT-China Academy of Science. Graduation July 2015. Topic:Models for data Extraction and their applications to the digital economy . Currently Principal Engineer at Yahoo!
-
