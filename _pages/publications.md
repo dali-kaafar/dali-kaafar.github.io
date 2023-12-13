@@ -15,10 +15,13 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2023**
 
+– H. Jmal, F. Ben Hmida, N. Basta, M. Ikram, M. A. Kaafar, A. Walker, “SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation”, Published in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), November 2023.
+
 – M Kepkowski, M Machulak, I Wood, M.A. Kaafar, "[Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/abs/2308.08096)", in IEEE Secure Development Conference 2023 ([IEEE SecDev](https://secdev.ieee.org/2023/home)), Atlanta, GA, October 2023.
 
-
 – W. Yeoh, M. Kepkowski, G. Heide, M.A. Kaafar, L. Hanzlik, "[Fast IDentity Online with Anonymous Credentials (FIDO-AC)](https://arxiv.org/abs/2305.16758)", in the 32nd USENIX Security Symposium (**USENIX Security 2023**), Anaheim, CA, August 2023.
+
+– H. Asghar, B. Zhao, M. Ikram, G. Nguyen, M.A. Kaafar, S. Lamont, D. Coscia, “[Use of cryptography in malware obfuscation](https://arxiv.org/pdf/2212.04008.pdf#:~:text=Perhaps%20the%20most%20common%20example,AES%20or%20DES%20%5B2%5D.)”, in the Journal of Computer Virology and Hacking Techniques, Publication date 25 September 2023
 
 – C. Atkins, B. Zhao, H. Asghar, I. Wood, M.A. Kaafar, "[Those Aren’t Your Memories, They’re Somebody Else’s: Seeding Misinformation in Chat Bot Memories](https://arxiv.org/abs/2304.05371)", in proceedings of the International Conference on Applied Cryptography and Network Security (**ACNS 2023**), Kyoto, Japan, 2023. 
 
