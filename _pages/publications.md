@@ -15,7 +15,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 **2023**
 
-– H. Jmal, F. Ben Hmida, N. Basta, M. Ikram, M. A. Kaafar, A. Walker, “SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation”, Published in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), November 2023.
+– H. Jmal, F. Ben Hmida, N. Basta, M. Ikram, M. A. Kaafar, A. Walker, “[SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation](https://arxiv.org/abs/2305.19487)”, Published in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), November 2023.
 
 – M Kepkowski, M Machulak, I Wood, M.A. Kaafar, "[Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/abs/2308.08096)", in IEEE Secure Development Conference 2023 ([IEEE SecDev](https://secdev.ieee.org/2023/home)), Atlanta, GA, October 2023.
 
