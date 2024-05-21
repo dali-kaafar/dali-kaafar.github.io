@@ -13,27 +13,27 @@ published: true
 1. Dr. Ian Wood
 2. Dr. Ben Zhao
 3. Nardine Basta
-4. Dr. [Zhigang Lu](https://suluz.github.io)
-5. Robin Carpentier
+4. Dr. Robin Carpentier
 
 
 **Current PhD Students**
 
 
-1. Hina Qayyum, Macquarie University. Topic: Exposing misconduct on free online platforms: A study of mobile apps, web games and social networks.
 
-2. Muhammad Salman, Macquarie University
+1. Muhammad Salman, Macquarie University
 
-3. Piyumi Seneviratne, Macquarie University
+2. Piyumi Seneviratne, Macquarie University
 
-4. Conor Atkins, Macquarie University
+3. Conor Atkins, Macquarie University
 
-5. Zeeshan Zulkifl, Macquarie University
+4. Zeeshan Zulkifl, Macquarie University
 
-6. Shashie Dilhara Arachchige 
+5. Shashie Dilhara Arachchige 
 
 
 **Past PhD Students**
+
+- Hina Qayyum, Macquarie University. Topic: Exposing misconduct on free online platforms: A study of mobile apps, web games and social networks.
 
 - Michal Kepkowski, Macquarie University. Thesis: Privacy enhancing technologies for identity and access management.
 
