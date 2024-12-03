@@ -27,9 +27,9 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 
 – R. Masood, W. Y. Cheng, D. Vatsalan, D. Mishra, H. Asghar, M.A. Kaafar, "Privacy Preserving Release of Mobile Sensor Data", Proceedings of the 19th International Conference on Availability, Reliability and Security, Vienna, July 2024.
 
-
 – H. Asghar, B. Zhao, M. Ikram, G. Nguyen, M.A. Kaafar, S. Lamont, D. Coscia, "Use of cryptography in malware obfuscation", in Journal of Computer Virology and Hacking Techniques 20 (1), 135-152. 2024
 
+– C Atkins, I Wood, MA Kaafar, H Asghar, N Basta, M Kepkowski, "ConvoCache: Smart Re-Use of Chatbot Response", In Proceedings of Interspeech 2024, Kos Greece, April 2024.
 
 
 **2023**
