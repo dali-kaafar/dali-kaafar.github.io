@@ -13,6 +13,25 @@ Here I list some selected peer-reviewed publications of mine.
 For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com.au/citations?user=9DR87DQAAAAJ&hl=en&oi=ao) page.
 
 
+**2025**
+– H. Asghar, Z. Lu, Z. Zhao, M.A. Kaafar, "Practical, Private Assurance of the Value of Collaboration via Fully Homomorphic Encryption", accepted for publication in the Proceedings on the 25th Privacy Enhancing Technologies Symposium (PoPETs) 2025
+
+
+**2024**
+
+– B. Zhao, J. Lu, X. Zhou, D. Vatsalan, M. Ikram, M.A. Kaafar, "On Adversarial Training with Incorrect Labels", International Conference on Web Information Systems Engineering, 116-132, November 2024.
+
+– M Ikram, IWB Sentana, H Asghar, MA Kaafar, M Kepkowski, "More Than Just a Random Number Generator! Unveiling the Security and Privacy Risks of Mobile OTP Authenticator Apps", International Conference on Web Information Systems Engineering, 177-192, November 2024.	
+
+– M Salman, IWB Sentana, M Ikram, D Kaafar, "Auditing and Attributing Behaviours of Suspicious Android Health Applications", 18th International Conference on Network and System Security, November 2024.   
+
+– R. Masood, W. Y. Cheng, D. Vatsalan, D. Mishra, H. Asghar, M.A. Kaafar, "Privacy Preserving Release of Mobile Sensor Data", Proceedings of the 19th International Conference on Availability, Reliability and Security, Vienna, July 2024.
+
+
+– H. Asghar, B. Zhao, M. Ikram, G. Nguyen, M.A. Kaafar, S. Lamont, D. Coscia, "Use of cryptography in malware obfuscation", in Journal of Computer Virology and Hacking Techniques 20 (1), 135-152. 2024
+
+
+
 **2023**
 
 – H. Jmal, F. Ben Hmida, N. Basta, M. Ikram, M. A. Kaafar, A. Walker, “[SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation](https://arxiv.org/abs/2305.19487)”, Published in IEEE Transactions on Information Forensics and Security (**IEEE T-IFS**), November 2023.
